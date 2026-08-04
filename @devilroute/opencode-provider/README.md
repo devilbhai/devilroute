@@ -4,7 +4,7 @@
 >
 > This package writes a **static** `provider.devilroute` block to `opencode.json` from a hardcoded default model list, so it **drifts behind your live DevilRoute catalog** — adding a model in DevilRoute won't show up in OpenCode until you re-run the generator, and OpenCode Desktop/Web only surfaces a subset of the static models.
 >
-> **`@devilroute/opencode-plugin`** solves this by fetching `GET /v1/models` from your DevilRoute instance at OpenCode startup, so the model list is always live (see [#3419](https://github.com/diegosouzapw/DevilRoute/issues/3419)). It is now the recommended path.
+> **`@devilroute/opencode-plugin`** solves this by fetching `GET /v1/models` from your DevilRoute instance at OpenCode startup, so the model list is always live (see [#3419](https://github.com/devilbhai/DevilRoute/issues/3419)). It is now the recommended path.
 >
 > **One-line migration** — replace the static `provider.devilroute` block in `opencode.json` with a single plugin entry:
 >
@@ -18,7 +18,7 @@
 >
 > This package is **not removed** and still works for static/offline config generation, but it is no longer actively recommended and won't track new models automatically.
 
-Helper for connecting [OpenCode](https://opencode.ai) to a running [DevilRoute](https://github.com/diegosouzapw/DevilRoute) AI gateway.
+Helper for connecting [OpenCode](https://opencode.ai) to a running [DevilRoute](https://github.com/devilbhai/DevilRoute) AI gateway.
 
 The package emits a **schema-valid entry** for `opencode.json` (`https://opencode.ai/config.json`) that delegates the actual runtime to [`@ai-sdk/openai-compatible`](https://www.npmjs.com/package/@ai-sdk/openai-compatible). It does not ship any new HTTP client — DevilRoute already exposes an OpenAI-compatible surface, and OpenCode already speaks it through the AI SDK.
 
@@ -147,7 +147,7 @@ Duplicates and empty strings are dropped automatically, and order is preserved.
 
 ## Related
 
-- [DevilRoute](https://github.com/diegosouzapw/DevilRoute) — the AI gateway this plugin targets.
+- [DevilRoute](https://github.com/devilbhai/DevilRoute) — the AI gateway this plugin targets.
 - [OpenCode](https://opencode.ai) — the agentic CLI consumer.
 - [`@ai-sdk/openai-compatible`](https://www.npmjs.com/package/@ai-sdk/openai-compatible) — the runtime delegate that actually speaks HTTP.
 

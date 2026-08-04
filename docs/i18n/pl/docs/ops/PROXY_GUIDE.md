@@ -263,7 +263,7 @@ Dzieje się to raz przy pierwszym starcie po upgrade. Użyj `migrateLegacyProxyC
 
 ## 1proxy — darmowy marketplace
 
-> 🆕 **Wkład [@oyi77](https://github.com/oyi77)** — PR [#1847](https://github.com/diegosouzapw/DevilRoute/pull/1847) (Issue [#1788](https://github.com/diegosouzapw/DevilRoute/issues/1788))
+> 🆕 **Wkład [@oyi77](https://github.com/oyi77)** — PR [#1847](https://github.com/devilbhai/DevilRoute/pull/1847) (Issue [#1788](https://github.com/devilbhai/DevilRoute/issues/1788))
 
 DevilRoute integruje się z platformą społecznościową **[1proxy](https://1proxy-api.aitradepulse.com)**, by dać dostęp do **setek darmowych, zwalidowanych proxy** z całego świata. Idealne dla użytkowników bez własnej infrastruktury proxy.
 

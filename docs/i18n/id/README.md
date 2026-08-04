@@ -14,32 +14,32 @@ _Proxy API universal Anda — satu endpoint, 100+ penyedia, tanpa downtime. Kini
 
 <div align="center">
 
-[![npm version](https://img.shields.io/npm/v/devilroute?color=cb3837&logo=npm)](https://www.npmjs.com/package/devilroute)
-[![Docker Hub](https://img.shields.io/docker/v/diegosouzapw/devilroute?label=Docker%20Hub&logo=docker&color=2496ED)](https://hub.docker.com/r/diegosouzapw/devilroute)
+[](https://www.npmjs.com/package/devilroute)
+[](https://hub.docker.com/r/devilbhai/devilroute)
 
-![NPM Downloads](https://img.shields.io/npm/dw/devilroute?label=npm%20down%20week&color=red)
-![NPM Downloads](https://img.shields.io/npm/dm/devilroute?label=npm%20down%20month&color=red)
 
-![NPM Downloads](https://img.shields.io/npm/d18m/devilroute?label=npm%20down%20year&color=red)
-![Docker Pulls](https://img.shields.io/docker/pulls/diegosouzapw/devilroute)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/diegosouzapw/devilroute/total?style=flat&label=eletron%20donwloads&color=blue)
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/diegosouzapw/DevilRoute?logo=star&style=flat)](https://github.com/diegosouzapw/DevilRoute/stargazers)
-[![open issues](https://custom-icon-badges.demolab.com/github/issues-raw/diegosouzapw/DevilRoute?logo=issue)](https://github.com/diegosouzapw/DevilRoute/issues)
-[![license](https://custom-icon-badges.demolab.com/github/license/diegosouzapw/DevilRoute?logo=law)](https://github.com/diegosouzapw/DevilRoute/blob/main/LICENSE)
-[![last commit](https://custom-icon-badges.demolab.com/github/last-commit/diegosouzapw/DevilRoute?logo=history&logoColor=white)](https://github.com/diegosouzapw/DevilRoute/commits/main)
-[![total contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Ddiegosouzapw%26type%3Djson)](https://github.com/diegosouzapw)
-[![code size](https://custom-icon-badges.demolab.com/github/languages/code-size/diegosouzapw/DevilRoute?logo=file-code&logoColor=white)](https://github.com/diegosouzapw/DevilRoute)
-[![pr closed](https://custom-icon-badges.demolab.com/github/issues-pr-closed/diegosouzapw/DevilRoute?color=purple&logo=git-pull-request&logoColor=white)](https://github.com/diegosouzapw/DevilRoute/pulls?q=is%3Apr+is%3Aclosed)
-[![tag](https://custom-icon-badges.demolab.com/github/v/tag/diegosouzapw/DevilRoute?logo=tag&logoColor=white)](https://github.com/diegosouzapw/DevilRoute/tags)
-[![github streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Ddiegosouzapw%26type%3Djson)](https://github.com/diegosouzapw)
-[![followers](https://custom-icon-badges.demolab.com/github/followers/diegosouzapw?logo=person-add)](https://github.com/diegosouzapw?tab=followers)
-[![fork](https://custom-icon-badges.demolab.com/github/forks/diegosouzapw/DevilRoute?logo=fork)](https://github.com/diegosouzapw/DevilRoute/network/members)
-[![watch](https://custom-icon-badges.demolab.com/github/watchers/diegosouzapw/DevilRoute?logo=eye)](https://github.com/diegosouzapw/DevilRoute/watchers)
 
-[![License](https://img.shields.io/github/license/diegosouzapw/DevilRoute)](https://github.com/diegosouzapw/DevilRoute/blob/main/LICENSE)
-[![Website](https://img.shields.io/badge/Website-devilroute.online-blue?logo=google-chrome&logoColor=white)](https://devilroute.online)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
+
+
+
+
+[](https://github.com/devilbhai/DevilRoute/stargazers)
+[](https://github.com/devilbhai/DevilRoute/issues)
+[](https://github.com/devilbhai/DevilRoute/blob/main/LICENSE)
+[](https://github.com/devilbhai/DevilRoute/commits/main)
+[](https://github.com/devilbhai)
+[](https://github.com/devilbhai/DevilRoute)
+[](https://github.com/devilbhai/DevilRoute/pulls?q=is%3Apr+is%3Aclosed)
+[](https://github.com/devilbhai/DevilRoute/tags)
+[](https://github.com/devilbhai)
+[](https://github.com/devilbhai?tab=followers)
+[](https://github.com/devilbhai/DevilRoute/network/members)
+[](https://github.com/devilbhai/DevilRoute/watchers)
+
+[](https://github.com/devilbhai/DevilRoute/blob/main/LICENSE)
+[](https://devilroute.online)
+[](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
 
 [🌐 Website](https://devilroute.online) • [🚀 Mulai Cepat](#-quick-start) • [💡 Fitur](#-key-features) • [📖 Dokumentasi](#-documentation) • [💰 Harga](#-pricing-at-a-glance) • [💬 WhatsApp](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
 
@@ -52,7 +52,7 @@ _Proxy API universal Anda — satu endpoint, 100+ penyedia, tanpa downtime. Kini
 ## 🖼️ Dashboard Utama
 
 <div align="center">
-  <img src="./docs/screenshots/MainDevilRoute.png" alt="DevilRoute Dashboard" width="800"/>
+  
 </div>
 
 ---
@@ -64,15 +64,15 @@ _Proxy API universal Anda — satu endpoint, 100+ penyedia, tanpa downtime. Kini
 
 | Halaman        | Tangkapan Layar                                   |
 | -------------- | ------------------------------------------------- |
-| **Providers**  | ![Providers](docs/screenshots/01-providers.png)   |
-| **Combos**     | ![Combos](docs/screenshots/02-combos.png)         |
-| **Analytics**  | ![Analytics](docs/screenshots/03-analytics.png)   |
-| **Health**     | ![Health](docs/screenshots/04-health.png)         |
-| **Translator** | ![Translator](docs/screenshots/05-translator.png) |
-| **Settings**   | ![Settings](docs/screenshots/06-settings.png)     |
-| **CLI Tools**  | ![CLI Tools](docs/screenshots/07-cli-tools.png)   |
-| **Usage Logs** | ![Usage](docs/screenshots/08-usage.png)           |
-| **Endpoints**  | ![Endpoints](docs/screenshots/09-endpoint.png)    |
+| **Providers**  |    |
+| **Combos**     |          |
+| **Analytics**  |    |
+| **Health**     |          |
+| **Translator** |  |
+| **Settings**   |      |
+| **CLI Tools**  |    |
+| **Usage Logs** |            |
+| **Endpoints**  |     |
 
 </details>
 
@@ -86,35 +86,35 @@ _Hubungkan IDE atau alat CLI berbasis AI apa pun melalui DevilRoute — gateway 
     <tr>
       <td align="center" width="110">
         <a href="https://github.com/openclaw/openclaw">
-          <img src="./public/providers/openclaw.png" alt="OpenClaw" width="48"/><br/>
+          <br/>
           <b>OpenClaw</b>
         </a><br/>
         <sub>⭐ 205K</sub>
       </td>
       <td align="center" width="110">
         <a href="https://github.com/HKUDS/nanobot">
-          <img src="./public/providers/nanobot.png" alt="NanoBot" width="48"/><br/>
+          <br/>
           <b>NanoBot</b>
         </a><br/>
         <sub>⭐ 20.9K</sub>
       </td>
       <td align="center" width="110">
         <a href="https://github.com/sipeed/picoclaw">
-          <img src="./public/providers/picoclaw.jpg" alt="PicoClaw" width="48"/><br/>
+          <br/>
           <b>PicoClaw</b>
         </a><br/>
         <sub>⭐ 14.6K</sub>
       </td>
       <td align="center" width="110">
         <a href="https://github.com/zeroclaw-labs/zeroclaw">
-          <img src="./public/providers/zeroclaw.png" alt="ZeroClaw" width="48"/><br/>
+          <br/>
           <b>ZeroClaw</b>
         </a><br/>
         <sub>⭐ 9.9K</sub>
       </td>
       <td align="center" width="110">
         <a href="https://github.com/nearai/ironclaw">
-          <img src="./public/providers/ironclaw.png" alt="IronClaw" width="48"/><br/>
+          <br/>
           <b>IronClaw</b>
         </a><br/>
         <sub>⭐ 2.1K</sub>
@@ -123,28 +123,28 @@ _Hubungkan IDE atau alat CLI berbasis AI apa pun melalui DevilRoute — gateway 
     <tr>
       <td align="center" width="110">
         <a href="https://github.com/anomalyco/opencode">
-          <img src="./public/providers/opencode.svg" alt="OpenCode" width="48"/><br/>
+          <br/>
           <b>OpenCode</b>
         </a><br/>
         <sub>⭐ 106K</sub>
       </td>
       <td align="center" width="110">
         <a href="https://github.com/openai/codex">
-          <img src="./public/providers/codex.svg" alt="Codex CLI" width="48"/><br/>
+          <br/>
           <b>Codex CLI</b>
         </a><br/>
         <sub>⭐ 60.8K</sub>
       </td>
       <td align="center" width="110">
         <a href="https://github.com/anthropics/claude-code">
-          <img src="./public/providers/claude.svg" alt="Claude Code" width="48"/><br/>
+          <br/>
           <b>Claude Code</b>
         </a><br/>
         <sub>⭐ 67.3K</sub>
       </td>
       <td align="center" width="110">
         <a href="https://github.com/Kilo-Org/kilocode">
-          <img src="./public/providers/kilocode.svg" alt="Kilo Code" width="48"/><br/>
+          <br/>
           <b>Kilo Code</b>
         </a><br/>
         <sub>⭐ 15.5K</sub>
@@ -160,10 +160,10 @@ _Hubungkan IDE atau alat CLI berbasis AI apa pun melalui DevilRoute — gateway 
 
 **Berhenti membuang uang dan terus mencapai batas:**
 
-- <img src="https://img.shields.io/badge/✗-e74c3c?style=flat-square" height="16"/> Kuota langganan kedaluwarsa tanpa digunakan setiap bulan
-- <img src="https://img.shields.io/badge/✗-e74c3c?style=flat-square" height="16"/> Batas rate menghentikan Anda di tengah sesi coding
-- <img src="https://img.shields.io/badge/✗-e74c3c?style=flat-square" height="16"/> API mahal ($20-50/bulan per penyedia)
-- <img src="https://img.shields.io/badge/✗-e74c3c?style=flat-square" height="16"/> Perpindahan manual antar penyedia
+-  Kuota langganan kedaluwarsa tanpa digunakan setiap bulan
+-  Batas rate menghentikan Anda di tengah sesi coding
+-  API mahal ($20-50/bulan per penyedia)
+-  Perpindahan manual antar penyedia
 
 **DevilRoute mengatasi ini:**
 
@@ -178,8 +178,8 @@ _Hubungkan IDE atau alat CLI berbasis AI apa pun melalui DevilRoute — gateway 
 > 💬 **Bergabunglah dengan komunitas kami!** [Grup WhatsApp](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t) — Dapatkan bantuan, berbagi tips, dan tetap terupdate.
 
 - **Website**: [devilroute.online](https://devilroute.online)
-- **GitHub**: [github.com/diegosouzapw/DevilRoute](https://github.com/diegosouzapw/DevilRoute)
-- **Issues**: [github.com/diegosouzapw/DevilRoute/issues](https://github.com/diegosouzapw/DevilRoute/issues)
+- **GitHub**: [github.com/devilbhai/DevilRoute](https://github.com/devilbhai/DevilRoute)
+- **Issues**: [github.com/devilbhai/DevilRoute/issues](https://github.com/devilbhai/DevilRoute/issues)
 - **WhatsApp**: [Grup Komunitas](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
 - **Berkontribusi**: Lihat [CONTRIBUTING.md](CONTRIBUTING.md), buka PR, atau pilih `good first issue`
 
@@ -906,8 +906,8 @@ depends="openssl"
 short_desc="Universal AI gateway with smart routing for multiple LLM providers"
 maintainer="zenobit <zenobit@disroot.org>"
 license="MIT"
-homepage="https://github.com/diegosouzapw/DevilRoute"
-distfiles="https://github.com/diegosouzapw/DevilRoute/archive/refs/tags/v${version}.tar.gz"
+homepage="https://github.com/devilbhai/DevilRoute"
+distfiles="https://github.com/devilbhai/DevilRoute/archive/refs/tags/v${version}.tar.gz"
 checksum=009400afee90a9f32599d8fe734145cfd84098140b7287990183dde45ae2245b
 system_accounts="_devilroute"
 devilroute_homedir="/var/lib/devilroute"
@@ -1002,7 +1002,7 @@ post_install() {
 
 ## 🐳 Docker
 
-DevilRoute tersedia sebagai image Docker publik di [Docker Hub](https://hub.docker.com/r/diegosouzapw/devilroute).
+DevilRoute tersedia sebagai image Docker publik di [Docker Hub](https://hub.docker.com/r/devilbhai/devilroute).
 
 **Quick run:**
 
@@ -1013,7 +1013,7 @@ docker run -d \
   --stop-timeout 40 \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 **Dengan file lingkungan:**
@@ -1029,7 +1029,7 @@ docker run -d \
   --env-file .env \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 **Menggunakan Docker Tulis:**
@@ -1062,7 +1062,7 @@ DevilRoute dapat diekspos dengan aman menggunakan penyediaan SSL otomatis Caddy.
 ```yaml
 services:
   devilroute:
-    image: diegosouzapw/devilroute:latest
+    image: devilbhai/devilroute:latest
     container_name: devilroute
     restart: unless-stopped
     volumes:
@@ -1086,8 +1086,8 @@ volumes:
 
 | Image                    | Tag      | Size   | Description           |
 | ------------------------ | -------- | ------ | --------------------- |
-| `diegosouzapw/devilroute` | `latest` | ~250MB | Latest stable release |
-| `diegosouzapw/devilroute` | `3.6.2`  | ~250MB | Current version       |
+| `devilbhai/devilroute` | `latest` | ~250MB | Latest stable release |
+| `devilbhai/devilroute` | `3.6.2`  | ~250MB | Current version       |
 
 ---
 
@@ -2111,7 +2111,7 @@ Jika Anda tidak ingin menyiapkan kredensial Anda sendiri saat ini, Anda masih da
 - **CI/CD**: Tindakan GitHub (publikasi npm otomatis + Docker Hub saat dirilis)
 - **Situs Web**: [devilroute.online](https://devilroute.online)
 - **Paket**: [npmjs.com/package/devilroute](https://www.npmjs.com/package/devilroute)
-- **Pekerja Pelabuhan**: [hub.docker.com/r/diegosouzapw/devilroute](https://hub.docker.com/r/diegosouzapw/devilroute)
+- **Pekerja Pelabuhan**: [hub.docker.com/r/devilbhai/devilroute](https://hub.docker.com/r/devilbhai/devilroute)
 - **Ketahanan**: Pemutus arus, backoff eksponensial, kawanan anti-thundering, spoofing TLS, penyembuhan diri kombo otomatis
 
 </details>
@@ -2169,7 +2169,7 @@ DevilRoute memiliki **218+ fitur yang direncanakan** di berbagai fase pengembang
 
 ## 👥 Kontributor
 
-[![Contributors](https://contrib.rocks/image?repo=diegosouzapw/DevilRoute&max=100&columns=20&anon=1)](https://github.com/diegosouzapw/DevilRoute/graphs/contributors)
+[](https://github.com/devilbhai/DevilRoute/graphs/contributors)
 
 ### Cara Berkontribusi
 
@@ -2192,22 +2192,14 @@ gh release create v2.0.0 --title "v2.0.0" --generate-notes
 
 ## 📊 Riwayat Star
 
-<a href="https://www.star-history.com/?repos=diegosouzapw%2Fdevilroute&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&legend=top-left" />
- </picture>
+<a href="https://www.star-history.com/?repos=devilbhai%2Fdevilroute&type=date&legend=top-left">
+ 
 </a>
 
 ## 🌍 StarMapper
 
-<a href="https://starmapper.bruniaux.com/diegosouzapw/devilroute">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute?theme=light" />
-    <img alt="StarMapper" src="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute" />
-  </picture>
+<a href="https://starmapper.bruniaux.com/devilbhai/devilroute">
+  
 </a>
 
 ## 🙏 Ucapan Terima Kasih

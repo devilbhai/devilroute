@@ -28,7 +28,7 @@ DevilRoute solves the problem of managing multiple AI provider subscriptions, qu
 - **Proxy engine:** Custom pipeline with format translation, circuit breaker, rate limiting, auto-combo engine
 - **i18n:** next-intl with 40+ languages
 - **Desktop:** Electron (cross-platform: Windows, macOS, Linux)
-- **Package:** Published on npm (`devilroute`) and Docker Hub (`diegosouzapw/devilroute`)
+- **Package:** Published on npm (`devilroute`) and Docker Hub (`devilbhai/devilroute`)
 
 ## Project Structure
 
@@ -491,10 +491,10 @@ diagnostics) plus **memory**, **skill**, **agentSkill**, **githubSkill**, **pool
 
 ## Links
 
-- Repository: https://github.com/diegosouzapw/DevilRoute
+- Repository: https://github.com/devilbhai/DevilRoute
 - Website: https://devilroute.online
 - npm: https://www.npmjs.com/package/devilroute
-- Docker Hub: https://hub.docker.com/r/diegosouzapw/devilroute
+- Docker Hub: https://hub.docker.com/r/devilbhai/devilroute
 - Documentation: See `/docs/` directory
 
 ### Documentation Index

@@ -72,7 +72,7 @@ docker rm devilroute
 docker volume rm devilroute-data
 
 # (Optional) Remove the image
-docker rmi diegosouzapw/devilroute:latest
+docker rmi devilbhai/devilroute:latest
 ```
 
 ### Docker Compose

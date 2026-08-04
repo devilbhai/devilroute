@@ -159,10 +159,10 @@ devilroute doctor
 
 | Capability                           | Skill                                                                                                 |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Server admin + backup                | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-admin/SKILL.md     |
-| Provider & key management            | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-providers/SKILL.md |
-| Cloud agents (Codex / Devin / Jules) | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-cloud/SKILL.md     |
-| Evals & benchmarking                 | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-eval/SKILL.md      |
+| Server admin + backup                | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-admin/SKILL.md     |
+| Provider & key management            | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-providers/SKILL.md |
+| Cloud agents (Codex / Devin / Jules) | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-cloud/SKILL.md     |
+| Evals & benchmarking                 | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-eval/SKILL.md      |
 
 ### Errors
 
@@ -173,7 +173,7 @@ devilroute doctor
 
 ## Admin lifecycle
 
-Requires the `devilroute` CLI. See [CLI entry-point skill](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli/SKILL.md) for install + global flags.
+Requires the `devilroute` CLI. See [CLI entry-point skill](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli/SKILL.md) for install + global flags.
 
 ### Server lifecycle
 

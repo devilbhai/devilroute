@@ -19,7 +19,7 @@
 ### 克隆与安装
 
 ```bash
-git clone https://github.com/diegosouzapw/DevilRoute.git
+git clone https://github.com/devilbhai/DevilRoute.git
 cd DevilRoute
 npm install
 ```
@@ -369,5 +369,5 @@ VPS 部署时，请使用 `npm run build:release`（而非 `npm run build`）—
 - **API 参考**：参见 [`docs/reference/API_REFERENCE.md`](docs/reference/API_REFERENCE.md)
 - **安全文档**：[`docs/security/CLI_TOKEN.md`](docs/security/CLI_TOKEN.md)、[`docs/security/ROUTE_GUARD_TIERS.md`](docs/security/ROUTE_GUARD_TIERS.md)、[`docs/security/ERROR_SANITIZATION.md`](docs/security/ERROR_SANITIZATION.md)、[`docs/security/PUBLIC_CREDS.md`](docs/security/PUBLIC_CREDS.md)
 - **运维文档**：[`docs/ops/SQLITE_RUNTIME.md`](docs/ops/SQLITE_RUNTIME.md)
-- **问题反馈**：[github.com/diegosouzapw/DevilRoute/issues](https://github.com/diegosouzapw/DevilRoute/issues)
+- **问题反馈**：[github.com/devilbhai/DevilRoute/issues](https://github.com/devilbhai/DevilRoute/issues)
 - **架构决策记录**：参见 `docs/adr/` 目录

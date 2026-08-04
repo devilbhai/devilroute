@@ -398,7 +398,7 @@ Two DevilRoute defaults can silently sabotage multi-hour Codex CLI sessions. Nei
 | Session keeps switching accounts / prompt-cache continuity is lost between turns | Session affinity TTL is `0` (disabled)                             | `sessionAffinityTtlMs`   |
 | Connection dies mid-reasoning with no client-facing prompt                       | Stream idle watchdog fired after 10 minutes with no upstream chunk | `STREAM_IDLE_TIMEOUT_MS` |
 
-Related discussions: [#7126](https://github.com/diegosouzapw/DevilRoute/discussions/7126) (long task drops), [#5718](https://github.com/diegosouzapw/DevilRoute/discussions/5718) (why affinity defaults off). Tracking: [#7287](https://github.com/diegosouzapw/DevilRoute/issues/7287).
+Related discussions: [#7126](https://github.com/devilbhai/DevilRoute/discussions/7126) (long task drops), [#5718](https://github.com/devilbhai/DevilRoute/discussions/5718) (why affinity defaults off). Tracking: [#7287](https://github.com/devilbhai/DevilRoute/issues/7287).
 
 ### 1. Session affinity — pin one conversation to one account
 

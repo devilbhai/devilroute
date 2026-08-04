@@ -6,9 +6,9 @@ lastUpdated: 2026-06-28
 
 # Decyzje klastrowe — opcjonalne profile sidecar
 
-**Status:** propozycja (oczekuje na review @diegosouzapw)
+**Status:** propozycja (oczekuje na review @devilbhai)
 **Date:** 2026-06-20
-**Refs:** [#3932](https://github.com/diegosouzapw/DevilRoute/issues/3932), PR #4381
+**Refs:** [#3932](https://github.com/devilbhai/DevilRoute/issues/3932), PR #4381
 
 ## TL;DR
 

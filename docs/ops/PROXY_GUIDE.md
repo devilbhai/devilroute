@@ -263,7 +263,7 @@ This happens once on first startup after upgrade. Use `migrateLegacyProxyConfigT
 
 ## 1proxy Free Proxy Marketplace
 
-> 🆕 **Contributed by [@oyi77](https://github.com/oyi77)** — PR [#1847](https://github.com/diegosouzapw/DevilRoute/pull/1847) (Issue [#1788](https://github.com/diegosouzapw/DevilRoute/issues/1788))
+> 🆕 **Contributed by [@oyi77](https://github.com/oyi77)** — PR [#1847](https://github.com/devilbhai/DevilRoute/pull/1847) (Issue [#1788](https://github.com/devilbhai/DevilRoute/issues/1788))
 
 DevilRoute integrates with the **[1proxy](https://1proxy-api.aitradepulse.com)** community platform to provide access to **hundreds of free, validated proxies** from around the world. This is perfect for users who don't have their own proxy infrastructure.
 

@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="../../screenshots/MainDevilRoute.png" alt="Панель DevilRoute" width="820"/>
+
 
 <br/>
 
@@ -26,38 +26,38 @@
 
 <br/>
 
-[![278 AI Providers](https://img.shields.io/badge/278-AI_Providers-6C5CE7?style=for-the-badge)](#-278-ai-провайдеров--90-бесплатных)
-[![90+ Free](https://img.shields.io/badge/90%2B-Free_Tiers-00B894?style=for-the-badge)](#-278-ai-провайдеров--90-бесплатных)
-[![1.53B Free Tokens/mo](https://img.shields.io/badge/1.53B-Free_Tokens%2Fmo-00B894?style=for-the-badge)](../../reference/FREE_TIERS.md)
-[![Token Savings](https://img.shields.io/badge/up_to_95%25-Token_Savings-E17055?style=for-the-badge)](#️-экономьте-1595-токенов--автоматически)
-[![18 Strategies](https://img.shields.io/badge/18-Routing_Strategies-0984E3?style=for-the-badge)](#-комбо--главная-фича)
-[![$0 to start](https://img.shields.io/badge/%240-To_Start-FDCB6E?style=for-the-badge&logoColor=black)](#-быстрый-старт)
+[](#-278-ai-провайдеров--90-бесплатных)
+[](#-278-ai-провайдеров--90-бесплатных)
+[](../../reference/FREE_TIERS.md)
+[](#️-экономьте-1595-токенов--автоматически)
+[](#-комбо--главная-фича)
+[](#-быстрый-старт)
 
 <br/>
 
 ### 💬 Сообщество
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U47eFqAXCn)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devilrouteOficial)
-[![WhatsApp Global](https://img.shields.io/badge/WhatsApp_Global-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
-[![WhatsApp Brasil](https://img.shields.io/badge/WhatsApp_Brasil-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)
+[](https://discord.gg/U47eFqAXCn)
+[](https://t.me/devilrouteOficial)
+[](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
+[](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)
 
 **Вопросы, советы по провайдерам, roadmap и поддержка → [Discord](https://discord.gg/U47eFqAXCn) · [Telegram](https://t.me/devilrouteOficial) · WhatsApp [🌍 Global](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t) / [🇧🇷 Brasil](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)**
 
 <br/>
 
-<a href="https://trendshift.io/repositories/23589" target="_blank"><img src="https://trendshift.io/api/badge/repositories/23589" alt="diegosouzapw%2FDevilRoute | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/23589" target="_blank"></a>
 
-[![npm](https://img.shields.io/npm/v/devilroute?logo=npm&style=flat-square)](https://www.npmjs.com/package/devilroute)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](../../../LICENSE)
-[![Stars](https://img.shields.io/github/stars/diegosouzapw/DevilRoute?style=social)](https://github.com/diegosouzapw/DevilRoute)
+[](https://www.npmjs.com/package/devilroute)
+[](../../../LICENSE)
+[](https://github.com/devilbhai/DevilRoute)
 
-[![npm version](https://img.shields.io/npm/v/devilroute?color=cb3837&logo=npm)](https://www.npmjs.com/package/devilroute)
-![NPM Monthly](https://img.shields.io/npm/dm/devilroute?label=npm/month&color=cb3837&logo=npm)
-[![Docker Hub](https://img.shields.io/docker/v/diegosouzapw/devilroute?label=Docker%20Hub&logo=docker&color=2496ED)](https://hub.docker.com/r/diegosouzapw/devilroute)
-![Docker Pulls](https://img.shields.io/docker/pulls/diegosouzapw/devilroute?label=docker%20pulls&logo=docker&color=2496ED)
-![Electron Downloads](https://img.shields.io/github/downloads/diegosouzapw/devilroute/total?style=flat&label=electron%20downloads&logo=electron&color=47848F)
-[![Website](https://img.shields.io/badge/Website-devilroute.online-blue?logo=google-chrome&logoColor=white)](https://devilroute.online)
+[](https://www.npmjs.com/package/devilroute)
+
+[](https://hub.docker.com/r/devilbhai/devilroute)
+
+
+[](https://devilroute.online)
 
 <br/>
 
@@ -335,7 +335,7 @@ Combo: "always-on"                         strategy: priority
 | Платформа | Установка | Плюсы |
 |---|---|---|
 | 📦 **npm (global)** | `npm install -g devilroute` | Одна команда, любая ОС |
-| 🐳 **Docker** | `docker run … diegosouzapw/devilroute` | **AMD64 + ARM64** |
+| 🐳 **Docker** | `docker run … devilbhai/devilroute` | **AMD64 + ARM64** |
 | 🖥️ **Desktop (Electron)** | `npm run electron:build` | Окно + tray — Win/macOS/Linux |
 | 💪 **ARM** | native `arm64` | Pi, ARM servers, Apple Silicon |
 | 📱 **Android (Termux)** | `pkg install nodejs && npx -y devilroute` | На телефоне 24/7, без root |
@@ -526,7 +526,7 @@ Ollama tags:      http://localhost:20128/vscode/YOUR_KEY/api/tags
 
 ```bash
 docker run -d --name devilroute --restart unless-stopped --stop-timeout 40 \
-  -p 127.0.0.1:20128:20128 -v devilroute-data:/app/data diegosouzapw/devilroute:latest
+  -p 127.0.0.1:20128:20128 -v devilroute-data:/app/data devilbhai/devilroute:latest
 ```
 
 **🛠️ Из исходников**
@@ -609,22 +609,22 @@ IDE/CLI: `http://localhost:20128/v1` · API Key: любая строка (есл
 <table>
   <tr>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=Rxdc36yUyOQ"><img src="https://img.youtube.com/vi/Rxdc36yUyOQ/maxresdefault.jpg" alt="Guia em Português" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=Rxdc36yUyOQ"></a><br/>
       <b>🇧🇷 Português</b><br/><sub>Полный гайд</sub>
     </td>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=CMzyOiUyEVc"><img src="https://img.youtube.com/vi/CMzyOiUyEVc/maxresdefault.jpg" alt="English Guide" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=CMzyOiUyEVc"></a><br/>
       <b>🇺🇸 English</b><br/><sub>Complete walkthrough</sub>
     </td>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=il_5Ii6v4-Y"><img src="https://img.youtube.com/vi/il_5Ii6v4-Y/maxresdefault.jpg" alt="Руководство на русском" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=il_5Ii6v4-Y"></a><br/>
       <b>🇷🇺 Русский</b><br/><sub>Полное руководство</sub>
     </td>
   </tr>
 </table>
 </div>
 
-> 🎬 **Сняли видео про DevilRoute?** Откройте [issue](https://github.com/diegosouzapw/DevilRoute/issues/new) или [discussion](https://github.com/diegosouzapw/DevilRoute/discussions) — добавим в этот раздел.
+> 🎬 **Сняли видео про DevilRoute?** Откройте [issue](https://github.com/devilbhai/DevilRoute/issues/new) или [discussion](https://github.com/devilbhai/DevilRoute/discussions) — добавим в этот раздел.
 
 <br/>
 
@@ -745,10 +745,10 @@ Combo: "free-forever"
 
 | Page | Screenshot | Page | Screenshot |
 |---|---|---|---|
-| Providers | ![Providers](../../screenshots/01-providers.png) | Combos | ![Combos](../../screenshots/02-combos.png) |
-| Analytics | ![Analytics](../../screenshots/03-analytics.png) | Health | ![Health](../../screenshots/04-health.png) |
-| Translator | ![Translator](../../screenshots/05-translator.png) | Settings | ![Settings](../../screenshots/06-settings.png) |
-| CLI Tools | ![CLI Tools](../../screenshots/07-cli-tools.png) | Usage Logs | ![Usage](../../screenshots/08-usage.png) |
+| Providers |  | Combos |  |
+| Analytics |  | Health |  |
+| Translator |  | Settings |  |
+| CLI Tools |  | Usage Logs |  |
 
 </details>
 
@@ -761,8 +761,8 @@ Combo: "free-forever"
 > 💬 Ссылки Discord / Telegram / WhatsApp — [в шапке README](#-сообщество).
 
 - 🌍 **Сайт:** [devilroute.online](https://devilroute.online)
-- 🐙 **GitHub:** [github.com/diegosouzapw/DevilRoute](https://github.com/diegosouzapw/DevilRoute)
-- 🐛 **Issues:** [сообщить о баге](https://github.com/diegosouzapw/DevilRoute/issues) (с `npm run system-info`)
+- 🐙 **GitHub:** [github.com/devilbhai/DevilRoute](https://github.com/devilbhai/DevilRoute)
+- 🐛 **Issues:** [сообщить о баге](https://github.com/devilbhai/DevilRoute/issues) (с `npm run system-info`)
 - 🤝 **Contributing:** [CONTRIBUTING.md](../../../CONTRIBUTING.md) или label `good first issue`
 
 </div>
@@ -857,7 +857,7 @@ Combo: "free-forever"
 
 Полный гайд: [CONTRIBUTING.md](../../../CONTRIBUTING.md).
 
-[![Contributors](https://contrib.rocks/image?repo=diegosouzapw/DevilRoute&max=100&columns=20&anon=1)](https://github.com/diegosouzapw/DevilRoute/graphs/contributors)
+[](https://github.com/devilbhai/DevilRoute/graphs/contributors)
 
 ---
 
@@ -865,12 +865,8 @@ Combo: "free-forever"
 
 ## 📊 Star History
 
-<a href="https://www.star-history.com/?repos=diegosouzapw%2Fdevilroute&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&legend=top-left" />
- </picture>
+<a href="https://www.star-history.com/?repos=devilbhai%2Fdevilroute&type=date&legend=top-left">
+ 
 </a>
 
 <br/><br/>

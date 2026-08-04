@@ -57,7 +57,7 @@ export function parseProxyFamily(value: unknown): ProxyFamily {
 
 ## Dlaczego istnieje
 
-Wprowadzone w PR [#3777](https://github.com/diegosouzapw/DevilRoute/pull/3777). Problemy motywujące:
+Wprowadzone w PR [#3777](https://github.com/devilbhai/DevilRoute/pull/3777). Problemy motywujące:
 
 | Problem                                         | Co naprawia dyrektywa                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -191,7 +191,7 @@ devilroute test-provider test [provider] [model]
 
 # DevilRoute — CLI Providers & Keys
 
-Requires the `devilroute` CLI. See [CLI entry-point skill](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli/SKILL.md) for install + global flags.
+Requires the `devilroute` CLI. See [CLI entry-point skill](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli/SKILL.md) for install + global flags.
 
 ## Provider catalog (available providers)
 
@@ -298,7 +298,7 @@ devilroute combo delete <name>                        # Delete a combo
 devilroute combo suggest --task "code review"         # Ask DevilRoute to recommend a combo
 ```
 
-For the full REST API for combos see [devilroute-routing skill](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-routing/SKILL.md).
+For the full REST API for combos see [devilroute-routing skill](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-routing/SKILL.md).
 
 ## Quota & usage
 

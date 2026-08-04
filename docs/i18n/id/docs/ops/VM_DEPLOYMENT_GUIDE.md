@@ -127,7 +127,7 @@ EOF
 ### 2.3 Jalankan container
 
 ```bash
-docker pull diegosouzapw/devilroute:latest
+docker pull devilbhai/devilroute:latest
 
 docker run -d \
   --name devilroute \
@@ -135,7 +135,7 @@ docker run -d \
   --env-file /opt/devilroute/.env \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ### 2.4 Verifikasi bahwa container berjalan
@@ -285,13 +285,13 @@ curl -sI https://llms.seudominio.com/health
 ### Upgrade ke versi baru
 
 ```bash
-docker pull diegosouzapw/devilroute:latest
+docker pull devilbhai/devilroute:latest
 docker stop devilroute && docker rm devilroute
 docker run -d --name devilroute --restart unless-stopped \
   --env-file /opt/devilroute/.env \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ### Lihat log

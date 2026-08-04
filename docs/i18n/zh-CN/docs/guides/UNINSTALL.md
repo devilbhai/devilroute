@@ -72,7 +72,7 @@ docker rm devilroute
 docker volume rm devilroute-data
 
 # （可选）移除镜像
-docker rmi diegosouzapw/devilroute:latest
+docker rmi devilbhai/devilroute:latest
 ```
 
 ### Docker Compose

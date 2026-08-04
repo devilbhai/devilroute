@@ -7,7 +7,7 @@ lastUpdated: 2026-07-23
 # ADR: Pluggable persistence boundary
 
 - **Status:** Proposed — requires maintainer approval before runtime work begins
-- **Tracking issue:** [#8075](https://github.com/diegosouzapw/DevilRoute/issues/8075)
+- **Tracking issue:** [#8075](https://github.com/devilbhai/DevilRoute/issues/8075)
 - **Scope:** Persistence architecture only; this decision does not add or select an external database
 
 ## Context

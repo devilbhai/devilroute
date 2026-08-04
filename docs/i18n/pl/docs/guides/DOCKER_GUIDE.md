@@ -34,7 +34,7 @@ docker run -d \
   --stop-timeout 40 \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ## Z plikiem środowiskowym
@@ -50,7 +50,7 @@ docker run -d \
   --env-file .env \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ## Docker Compose
@@ -206,14 +206,14 @@ zmienną środowiskową runtime.
 
 ### Wstępnie zbudowany obraz root + podścieżka w runtime
 
-Opublikowane obrazy `diegosouzapw/devilroute:*` są budowane pod root domeny. Nadal możesz
+Opublikowane obrazy `devilbhai/devilroute:*` są budowane pod root domeny. Nadal możesz
 ustawić `DEVILROUTE_BASE_PATH` w runtime; kontener jednorazowo patchuje bundel przy starcie.
 Połącz to z pasującym publicznym originem:
 
 ```yaml
 services:
   devilroute:
-    image: diegosouzapw/devilroute:latest
+    image: devilbhai/devilroute:latest
     environment:
       DEVILROUTE_BASE_PATH: /devilroute
       NEXT_PUBLIC_BASE_URL: https://myhostname.example.com/devilroute
@@ -234,7 +234,7 @@ DevilRoute można bezpiecznie udostępnić dzięki automatycznemu provisionowani
 ```yaml
 services:
   devilroute:
-    image: diegosouzapw/devilroute:latest
+    image: devilbhai/devilroute:latest
     container_name: devilroute
     restart: unless-stopped
     volumes:
@@ -286,8 +286,8 @@ Panele tuneli endpointów (Cloudflare, Tailscale, ngrok) można pokazywać lub u
 
 | Obraz                    | Tag      | Rozmiar | Opis                       |
 | ------------------------ | -------- | ------- | -------------------------- |
-| `diegosouzapw/devilroute` | `latest` | ~250MB  | Najnowsze stabilne wydanie |
-| `diegosouzapw/devilroute` | `3.8.0`  | ~250MB  | Bieżąca wersja             |
+| `devilbhai/devilroute` | `latest` | ~250MB  | Najnowsze stabilne wydanie |
+| `devilbhai/devilroute` | `3.8.0`  | ~250MB  | Bieżąca wersja             |
 
 Manifest multi-platform: natywne `linux/amd64` + `linux/arm64` (Apple Silicon, AWS Graviton, Raspberry Pi). Docker automatycznie wybiera pasującą architekturę; podaj `--platform linux/amd64`, jeśli musisz wymusić emulację AMD64 na hostach ARM.
 

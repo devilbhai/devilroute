@@ -1,11 +1,11 @@
 import { z } from "zod";
 
 export const NEWS_JSON_URL =
-  "https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/news.json";
+  "https://raw.githubusercontent.com/devilbhai/DevilRoute/main/news.json";
 export const CHANGELOG_RAW_URL =
-  "https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/CHANGELOG.md";
+  "https://raw.githubusercontent.com/devilbhai/DevilRoute/main/CHANGELOG.md";
 export const CHANGELOG_GITHUB_URL =
-  "https://github.com/diegosouzapw/DevilRoute/blob/main/CHANGELOG.md";
+  "https://github.com/devilbhai/DevilRoute/blob/main/CHANGELOG.md";
 
 const activeNewsSchema = z.object({
   active: z.literal(true),

@@ -38,13 +38,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegosouzapw/DevilRoute.git",
+    "url": "git+https://github.com/devilbhai/DevilRoute.git",
     "directory": "@devilroute/opencode-provider"
   },
   "bugs": {
-    "url": "https://github.com/diegosouzapw/DevilRoute/issues"
+    "url": "https://github.com/devilbhai/DevilRoute/issues"
   },
-  "homepage": "https://github.com/diegosouzapw/DevilRoute/tree/main/%40devilroute/opencode-provider#readme",
+  "homepage": "https://github.com/devilbhai/DevilRoute/tree/main/%40devilroute/opencode-provider#readme",
   "engines": {
     "node": ">=22.22.3"
   },

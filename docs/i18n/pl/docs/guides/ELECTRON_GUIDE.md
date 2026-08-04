@@ -180,7 +180,7 @@ Ustawiane przez `session.defaultSession.webRequest.onHeadersReceived`. Istotne d
 
 ## Auto-aktualizacja
 
-Używa `electron-updater` z providerem GitHub (`diegosouzapw/DevilRoute`).
+Używa `electron-updater` z providerem GitHub (`devilbhai/DevilRoute`).
 
 - `autoDownload = false`, `autoInstallOnAppQuit = true`
 - Zdarzenia przekazywane do renderera przez IPC `update-status`:
@@ -256,7 +256,7 @@ Artefakty lądują w `electron/dist-electron/`:
 - `DevilRoute-X.Y.Z-mac.dmg`, `DevilRoute-X.Y.Z-arm64-mac.dmg` (macOS)
 - `DevilRoute-X.Y.Z.AppImage`, `devilroute-desktop_X.Y.Z_amd64.deb` (Linux)
 
-Wydania są publikowane w GitHub Releases (`diegosouzapw/DevilRoute`), skąd `electron-updater` sprawdza też nowe wersje.
+Wydania są publikowane w GitHub Releases (`devilbhai/DevilRoute`), skąd `electron-updater` sprawdza też nowe wersje.
 
 ## Rozwiązywanie problemów
 

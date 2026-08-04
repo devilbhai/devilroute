@@ -358,7 +358,7 @@ CLI 自动从 `~/.devilroute/.env` 或 `./.env` 加载环境变量。
 ### VPS 部署
 
 ```bash
-git clone https://github.com/diegosouzapw/DevilRoute.git
+git clone https://github.com/devilbhai/DevilRoute.git
 cd DevilRoute && npm install && npm run build
 
 export JWT_SECRET="your-secure-secret-change-this"
@@ -440,8 +440,8 @@ depends="openssl"
 short_desc="Universal AI gateway with smart routing for multiple LLM providers"
 maintainer="zenobit <zenobit@disroot.org>"
 license="MIT"
-homepage="https://github.com/diegosouzapw/DevilRoute"
-distfiles="https://github.com/diegosouzapw/DevilRoute/archive/refs/tags/v${version}.tar.gz"
+homepage="https://github.com/devilbhai/DevilRoute"
+distfiles="https://github.com/devilbhai/DevilRoute/archive/refs/tags/v${version}.tar.gz"
 checksum=009400afee90a9f32599d8fe734145cfd84098140b7287990183dde45ae2245b
 system_accounts="_devilroute"
 devilroute_homedir="/var/lib/devilroute"

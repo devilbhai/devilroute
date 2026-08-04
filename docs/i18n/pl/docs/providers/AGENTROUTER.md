@@ -70,7 +70,7 @@ docker run -d --name devilroute \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
   -e ENABLE_CC_COMPATIBLE_PROVIDER=true \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 Po restarcie dashboard udostępnia opcję **Add Claude Code Compatible**

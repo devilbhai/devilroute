@@ -24,7 +24,7 @@ See the full OpenAPI specification at `GET /api/openapi/spec` or `docs/openapi.y
 
 # DevilRoute — MCP Server
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ## Transports
 
@@ -87,5 +87,5 @@ Pass scope name as `--scope` arg or via `X-Omniroute-Scope` header.
 
 ## Reference
 
-Full docs: https://github.com/diegosouzapw/DevilRoute/blob/main/docs/frameworks/MCP-SERVER.md
+Full docs: https://github.com/devilbhai/DevilRoute/blob/main/docs/frameworks/MCP-SERVER.md
 <!-- skill:custom-end -->

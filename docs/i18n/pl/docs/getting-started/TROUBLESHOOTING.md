@@ -510,7 +510,7 @@ Problemy specyficzne dla wydania v3.8.0 i ich obecne obejścia. Gdy poprawka wej
 
 ## Nadal utknąłeś?
 
-- **GitHub Issues**: [github.com/diegosouzapw/DevilRoute/issues](https://github.com/diegosouzapw/DevilRoute/issues)
+- **GitHub Issues**: [github.com/devilbhai/DevilRoute/issues](https://github.com/devilbhai/DevilRoute/issues)
 - **Architektura**: Zobacz [`docs/architecture/ARCHITECTURE.md`](../architecture/ARCHITECTURE.md) po szczegóły wewnętrzne
 - **API Reference**: Zobacz [`docs/reference/API_REFERENCE.md`](../reference/API_REFERENCE.md) po wszystkie endpointy
 - **Health Dashboard**: Sprawdź **Dashboard → Health** pod kątem statusu systemu w czasie rzeczywistym

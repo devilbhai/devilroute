@@ -357,7 +357,7 @@ See the full OpenAPI specification at `GET /api/openapi/spec` or `docs/openapi.y
 
 ## Chat completions
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ### Endpoints
 
@@ -421,7 +421,7 @@ verbatim. Cached automatically via reasoning cache.
 
 ## Image generation
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ### Endpoints
 
@@ -462,7 +462,7 @@ Response: `{ created, data: [{ url? or b64_json, revised_prompt }] }`
 
 ## Text-to-speech
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ### Endpoint
 
@@ -503,7 +503,7 @@ Common OpenAI voices: `alloy`, `echo`, `fable`, `onyx`, `nova`, `shimmer`.
 
 ## Speech-to-text
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ### Endpoints
 
@@ -541,7 +541,7 @@ Response formats: `json`, `text`, `srt`, `verbose_json`, `vtt`.
 
 ## Embeddings
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ### Endpoint
 
@@ -582,7 +582,7 @@ Response: `{ data:[{ embedding:[...], index }], usage:{ prompt_tokens, total_tok
 
 ## Web search
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ### Endpoint
 
@@ -627,7 +627,7 @@ Response: `{ answer?, results:[{ url, title, content, score }] }`
 
 ## Web fetch
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ### Endpoint
 

@@ -43,7 +43,7 @@ export function SkillPreviewPane({
 
   const handleCopyRawUrl = useCallback(async () => {
     if (!skillId) return;
-    const rawUrl = `https://raw.githubusercontent.com/diegosouzapw/DevilRoute/refs/heads/main/skills/${skillId}/SKILL.md`;
+    const rawUrl = `https://raw.githubusercontent.com/devilbhai/DevilRoute/refs/heads/main/skills/${skillId}/SKILL.md`;
     try {
       await navigator.clipboard.writeText(rawUrl);
     } catch {
@@ -52,7 +52,7 @@ export function SkillPreviewPane({
   }, [skillId]);
 
   const githubUrl = skillId
-    ? `https://github.com/diegosouzapw/DevilRoute/blob/main/skills/${skillId}/SKILL.md`
+    ? `https://github.com/devilbhai/DevilRoute/blob/main/skills/${skillId}/SKILL.md`
     : null;
 
   // Empty state

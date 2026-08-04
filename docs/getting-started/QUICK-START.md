@@ -17,13 +17,13 @@ npm install -g devilroute
 ### Option B: Docker
 
 ```bash
-docker run -d --name devilroute -p 20128:20128 diegosouzapw/devilroute:latest
+docker run -d --name devilroute -p 20128:20128 devilbhai/devilroute:latest
 ```
 
 ### Option C: From Source
 
 ```bash
-git clone https://github.com/diegosouzapw/DevilRoute.git
+git clone https://github.com/devilbhai/DevilRoute.git
 cd DevilRoute
 npm install
 npm run dev
@@ -179,4 +179,4 @@ DevilRoute automatically skips failed providers and tries the next one. You don'
 
 - **[Troubleshooting](./TROUBLESHOOTING.md)** — Common issues and fixes
 - **[Discord](https://discord.gg/U47eFqAXCn)** — Community support
-- **[GitHub Issues](https://github.com/diegosouzapw/DevilRoute/issues)** — Report bugs
+- **[GitHub Issues](https://github.com/devilbhai/DevilRoute/issues)** — Report bugs

@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="../../../docs/screenshots/MainDevilRoute.png" alt="DevilRoute Dashboard" width="820"/>
+
 
 <br/>
 
 # 🚀 DevilRoute — Darmowa bramka AI
 
-<img src="../../../docs/diagrams/readme-hero.svg" width="100%" alt="DevilRoute — Nigdy nie przestawaj kodować. Każde narzędzie AI → 268 dostawców — ponad 90 darmowych — przez jeden punkt końcowy. Claude Code, Codex, Cursor, Cline, Copilot i Antigravity w DARMOWE Claude / GPT / Gemini z automatycznym przekierowaniem (auto-fallback). Kaskadowa kompresja RTK + Caveman oszczędza 15–95% tokenów (średnio ~89%) — nigdy nie przekraczaj limitów. 268 dostawców AI · ponad 90 darmowych pakietów · ~1,4 mld darmowych tokenów/mies. · 18 strategii routingu · 0 USD na start."/>
+
 
 </div>
 
@@ -18,7 +18,7 @@
 
 > Ręczne łączenie darmowych pakietów jest uciążliwe — dziesiątki SDK, dziesiątki limitów zapytań (rate limits) i brak wiedzy, ile tak naprawdę Ci pozostało. DevilRoute agreguje **udokumentowane** darmowe pakiety z **39 pul dostawców / ponad 460 modeli** w jedną rzetelną liczbę i wyświetla ją na żywo w panelu (`/dashboard/free-tiers`).
 
-<img src="../../../docs/diagrams/free-tier-budget.svg" width="100%" alt="Karta budżetu darmowych pakietów DevilRoute: stabilne ~1,4 mld darmowych tokenów miesięcznie, do ~2,0 mld w pierwszym miesiącu dzięki kredytom na start, z udokumentowanych darmowych poziomów 39 pul dostawców / ponad 460 modeli za jednym punktem końcowym. Rzetelne wyliczenia z deduplikacją puli — każda współdzielona pula liczona raz (liczenie każdego limitu zapytań 24/7 dałoby ~10 mld; niepublikowane), 15 dostawców oflagowanych ze względu na Warunki Świadczenia Usług (ToS), więc decyzja należy do Ciebie. Pasek budżetu 19 mierzalnych darmowych pul z siatką modeli (Mistral Large 3 1B, GPT-4o mini 150M, Gemini 2.5 Flash 60M … Claude Sonnet 4.5 25K), ~626M jednorazowych kredytów startowych w pierwszym miesiącu (vertex 300M, agentrouter 200M, predibase 25M, together 25M, glm-cn 20M, doubao 15M, ai21 10M, longcat 10M, deepseek 5M, hyperbolic 5M, nscale 5M), plus stale darmowi dostawcy bez limitu tokenów (SiliconFlow, Z.AI GLM-Flash, Kilo, OpenCode Zen, baidu …) oraz doładowanie OpenRouter za 10 USD odblokowujące +24M/mies. — przedstawione osobno, aby nie sztucznie zawyżać głównego nagłówka. Zużycie/pozostało na żywo na /dashboard/free-tiers."/>
+
 
 > Animowane podsumowanie strony `/dashboard/free-tiers` na żywo. Pełna metodologia (deduplikacja pul, pakiety kredytów, warunki dostawców): **[docs/reference/FREE_TIERS.md](../../../docs/reference/FREE_TIERS.md)**.
 >
@@ -32,19 +32,19 @@
 
 </h3>
 
-[![Stars](https://img.shields.io/github/stars/diegosouzapw/DevilRoute?style=social)](https://github.com/diegosouzapw/DevilRoute)
-<a href="https://trendshift.io/repositories/23589" target="_blank"><img src="https://trendshift.io/api/badge/repositories/23589" alt="diegosouzapw%2FDevilRoute | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-[![Star History Rank](https://api.star-history.com/badge?repo=diegosouzapw/DevilRoute&theme=dark)](https://www.star-history.com/diegosouzapw/devilroute)
+[](https://github.com/devilbhai/DevilRoute)
+<a href="https://trendshift.io/repositories/23589" target="_blank"></a>
+[](https://www.star-history.com/devilbhai/devilroute)
 
 <br/>
 
 ### 💬 Dołącz do społeczności
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U47eFqAXCn)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devilrouteOficial)
-[![WhatsApp Global](https://img.shields.io/badge/WhatsApp_Global-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
-[![WhatsApp Brasil](https://img.shields.io/badge/WhatsApp_Brasil-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)
-[![Website](https://img.shields.io/badge/Website-devilroute.online-blue?logo=google-chrome&logoColor=white)](https://devilroute.online)
+[](https://discord.gg/U47eFqAXCn)
+[](https://t.me/devilrouteOficial)
+[](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
+[](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)
+[](https://devilroute.online)
 
 **Pytania, wskazówki dotyczące dostawców, plany rozwoju (roadmap) i wsparcie → [Discord](https://discord.gg/U47eFqAXCn) · [Telegram](https://t.me/devilrouteOficial) · WhatsApp [🌍 Global](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t) / [🇧🇷 Brasil](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)**
 
@@ -52,12 +52,12 @@
 
 ### 🧩 Dostępne
 
-[![npm version](https://img.shields.io/npm/v/devilroute?color=cb3837&logo=npm)](https://www.npmjs.com/package/devilroute)
-![NPM Monthly](https://img.shields.io/npm/dm/devilroute?label=npm/month&color=cb3837&logo=npm)
-[![Docker Hub](https://img.shields.io/docker/v/diegosouzapw/devilroute?label=Docker%20Hub&logo=docker&color=2496ED)](https://hub.docker.com/r/diegosouzapw/devilroute)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](../../../LICENSE)
-![Docker Pulls](https://img.shields.io/docker/pulls/diegosouzapw/devilroute?label=docker%20pulls&logo=docker&color=2496ED)
-![Electron Downloads](https://img.shields.io/github/downloads/diegosouzapw/devilroute/total?style=flat&label=electron%20downloads&logo=electron&color=47848F)
+[](https://www.npmjs.com/package/devilroute)
+
+[](https://hub.docker.com/r/devilbhai/devilroute)
+[](../../../LICENSE)
+
+
 
 [**🚀 Szybki start**](#-szybki-start) • [**🎯 Komba**](#-komba-combos--flagowa-funkcja) • [**🌐 Dostawcy**](#-268-dostawc%C3%B3w-ai--ponad-90-darmowych) • [**🔌 CLI & MCP**](#-pe%C5%82ne-cli--a2a-i-mcp) • [**🗜️ Kompresja**](#%EF%B8%8F-oszcz%C4%99dzaj-1595-token%C3%B3w--automatycznie) • [**🌍 Strona WWW**](https://devilroute.online)
 
@@ -126,7 +126,7 @@
 
 </div>
 
-<img src="../../../docs/diagrams/promise-pillars.svg" width="100%" alt="Obietnica — Jeden punkt końcowy. 268 dostawców. Nigdy nie przestawaj tworzyć — DevilRoute wybiera najtańsze działające rozwiązanie. Sześć filarów: Nigdy nie napotykaj limitów (automatyczne przełączanie między 268 dostawcami w milisekundy, zero przestojów) · Oszczędzaj do 95% tokenów (kaskadowa kompresja RTK + Caveman zmniejsza zużycie o 15–95%, średnio ~89% w sesjach z intensywnym użyciem narzędzi) · 0 USD na start (90+ darmowych pakietów, 40+ darmowych na zawsze — bez karty) · Każde narzędzie działa (26 agentów kodujących przez jedną konfigurację) · Jeden punkt końcowy (OpenAI ↔ Claude ↔ Gemini ↔ API Responses na /v1) · Klasa produkcyjna (wyłączniki awaryjne [circuit breakers], maskowanie TLS [TLS stealth], 104 narzędzia MCP, A2A, pamięć, barierki ochronne [guardrails], ewaluacje — ponad 25 000 testów)."/>
+
 
 <br/>
 <br/>
@@ -137,11 +137,11 @@
 
 </div>
 
-<img src="../../../docs/diagrams/why-pain-fix.svg" width="100%" alt="Dlaczego DevilRoute — koniec z żonglowaniem 10 panelami, niedziałającymi kluczami API i niespodziewanymi rachunkami. Dziesięć codziennych problemów vs rozwiązania: wygasające niewykorzystane limity → maksymalizacja subskrypcji; limity zapytań w trakcie kodowania → 4-poziomowe automatyczne przełączanie (Subskrypcja → API → Tanie → Darmowe); wyniki narzędzi marnujące tokeny → kompresja RTK + Caveman (15–95%); drogie API → routing zoptymalizowany pod kątem kosztów; każde narzędzie z osobną konfiguracją → jeden punkt końcowy, jeden panel; blokowanie AI → 3-poziomowe proxy + maskowanie TLS; niedziałające klucze → 3-warstwowa odporność (wyłączniki awaryjne, schładzanie kluczy, blokada modelu); zespół dzielący jedną subskrypcję → pule kluczy z limitami sprawiedliwego podziału (fair-share); prompty przesyłane przez zewnętrzną chmurę → lokalne uruchomienie z kluczami szyfrowanymi AES-256-GCM; brak widoczności wydatków → analityka na żywo (użycie, limit, oszczędności, opóźnienie p95)."/>
+
 
 <div align="center">
 
-<img src="../../../docs/diagrams/tier-cascade.svg" width="100%" alt="Przepływ żądań DevilRoute: Twoje IDE lub CLI (Claude Code, Cursor, Cline…) wywołuje jeden lokalny punkt końcowy (http://localhost:20128/v1); inteligentny router DevilRoute (kompresja RTK + Caveman, 18 strategii routingu, wyłączniki awaryjne, maskowanie TLS, MCP, A2A, barierki ochronne) automatycznie przełącza się między 4 poziomami dostawców — Poziom 1 Subskrypcja (Claude Code, Codex, Copilot), brak limitu? Poziom 2 Klucz API (DeepSeek, Groq, xAI), przekroczony budżet? Poziom 3 Tanie (GLM $0.5, MiniMax $0.2), przekroczony budżet? Poziom 4 Darmowe (Kiro, Qoder, Pollinations) — zawsze włączone."/>
+
 
 </div>
 
@@ -194,7 +194,7 @@ Wszystkie **18** strategii — łącz i dopasowuj na każdym kroku komba:
 | 17  | `fusion`            | Rozesłanie zapytania do panelu modeli + sędzia syntetyzuje jedną odpowiedź (Fusion) 🧬                                   |
 | 18  | `pipeline`          | Łączenie kroków — wyjście każdego celu zasila kolejny 🔗                                                                 |
 
-<img src="../../../docs/diagrams/strategies-grid.svg" width="100%" alt="Wszystkie 18 strategii routingu komba w formie animowanej, po jednym kafelku na strategię pokazującym realizowany przepływ: priority (zużyj pierwszy, potem kolejny), fill-first (wypełnij limit celu, potem idź dalej), weighted (losowy ważony), round-robin (cyklicznie w kolejności), p2c (wybierz dwa, weź lżejszy), least-used (wygrywa najniższe obciążenie), random (jednolity, bez powtórzeń), strict-random (powtórzenia dozwolone), cost-optimized (najtańszy $ za zapytanie), headroom (najwięcej pozostałego limitu), reset-window (resetuje się najszybciej → użyj go), reset-aware (klasyfikacja wg resetu, krótkie najpierw), context-relay (przekazywanie długiego kontekstu), context-optimized (dopasowanie do rozmiaru kontekstu), lkgp (trzymaj się ostatniego sukcesu), auto (ocenianie na żywo na bazie 12 czynników), fusion (panel + sędzia → jedna odpowiedź), pipeline (każde wyjście zasila kolejne)."/>
+
 
 <sub>Silnik Auto-Combo ocenia każdego kandydata na podstawie **12 czynników** (stan techniczny, limit, koszt, opóźnienie, wskaźnik sukcesu, aktualność…) — zobacz [`docs/routing/AUTO-COMBO.md`](docs/routing/AUTO-COMBO.md).</sub>
 
@@ -210,14 +210,14 @@ Wszystkie **18** strategii — łącz i dopasowuj na każdym kroku komba:
 | 🚦 **Polityka** | `hard` (blokuj po przekroczeniu) · `soft` (obniż priorytet) · `burst` (użyj wolnego zapasu)                                                                                               |
 | 🧱 **Limit max (Cap)** | bezwzględny limit na klucz, niezależny od trybu                                                                                                                                 |
 
-<img src="../../../docs/diagrams/pool-fair-share.svg" width="100%" alt="Pula kluczy DevilRoute 'team-codex': jedno konto Codex Pro dzielone przez 3 klucze w 5-godzinnym oknie. alice waga 50 (do 50% współdzielonego limitu 5h), bob waga 30, ci-bot waga 20. W trybie łagodnym (poniżej 50% zużycia puli) wolne udziały są wypożyczane; gdy pula przekroczy 50%, tryb rygorystyczny ogranicza każdy klucz do jego sprawiedliwego udziału."/>
+
 
 <sub>Wymuszane na "gorącej ścieżce" **zanim** żądanie opuści DevilRoute, z limitami na parę (klucz, model) + zachowaniem sesyjności (session stickiness) dla spójności pamięci podręcznej promptów (teraz z przełącznikiem wyłączania dla komba / globalnie). 📖 [Silnik Quota Sharing](../../../docs/routing/QUOTA_SHARE.md)</sub>
 
 
 ### 🧱 Odporność jest wbudowana (3 niezależne warstwy)
 
-<img src="../../../docs/diagrams/resilience-layers.svg" width="100%" alt="Odporność DevilRoute — 3 niezależne, samonaprawiające się warstwy, właściwa warstwa dla właściwego rodzaju awarii. Warstwa 1: wyłącznik awaryjny dostawcy (cały dostawca): aktywuje się tylko przy błędach 408/5xx, progi OAuth 3× / klucz API 5× / lokalny 2×, resetuje się po 60s/30s/15s przechodząc w próbny stan HALF-OPEN, powolne przywracanie; w stanie OPEN kombo przekierowuje ruch do kolejnego dostawcy. Warstwa 2: czas schładzania połączenia (jeden klucz/konto): bazowo 5s dla OAuth / 3s dla klucza API, wykładnicze opóźnienie ×2 z zabezpieczeniem przed kumulacją zapytań (anti-thundering-herd), błąd 429 respektuje nagłówek Retry-After, sukces resetuje stan błędów; schładzany klucz jest pomijany, podczas gdy sąsiednie klucze nadal obsługują ruch. Warstwa 3: blokada modelu (jeden model): błąd 429 dla konkretnego modelu, lokalny błąd 404 lub odmowy dostępu blokują tylko ten model — nigdy całe połączenie. Stany terminalne (zablokowany, wygasły, wyczerpane środki) są przeznaczone dla operatora, nie dla mechanizmów schładzania."/>
+
 
 <sub>📖 [Silnik Auto-Combo](docs/routing/AUTO-COMBO.md) · [Podręcznik odporności](../../../docs/architecture/RESILIENCE_GUIDE.md)</sub>
 
@@ -283,35 +283,35 @@ Wszystkie **18** strategii — łącz i dopasowuj na każdym kroku komba:
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="76"><a href="https://github.com/anthropics/claude-code"><img src="../../../public/providers/claude.svg" width="40" alt="Claude Code"/><br/><sub><b>Claude Code</b></sub><br/><sub>                           </sub></a></td>
-    <td align="center" width="76"><a href="https://github.com/openai/codex"><img src="../../../public/providers/codex.svg" width="40" alt="Codex CLI"/><br/><sub><b>Codex CLI</b></sub><br/><sub>                           </sub></a></td>
-    <td align="center" width="76"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/cline.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/cline.svg" width="40" alt="Cline"/></picture><br/><sub><b>Cline</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><a href="https://github.com/Kilo-Org/kilocode"><img src="../../../public/providers/kilocode.svg" width="40" alt="Kilo Code"/><br/><sub><b>Kilo Code</b></sub><br/><sub>                           </sub></a></td>
-    <td align="center" width="76"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/roocode.png#gh-dark-mode-only" width="40" alt="Roo Code"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/roocode.svg#gh-light-mode-only" width="40" alt="Roo Code"/><br/><sub><b>Roo Code</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/continue.svg" width="40" alt="Continue"/><br/><sub><b>Continue</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/qwen.svg" width="40" alt="Qwen Code"/><br/><sub><b>Qwen Code</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="Aider"/><br/><sub><b>Aider</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="ForgeCode"/><br/><sub><b>ForgeCode</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><a href="https://github.com/anthropics/claude-code"><br/><sub><b>Claude Code</b></sub><br/><sub>                           </sub></a></td>
+    <td align="center" width="76"><a href="https://github.com/openai/codex"><br/><sub><b>Codex CLI</b></sub><br/><sub>                           </sub></a></td>
+    <td align="center" width="76"><br/><sub><b>Cline</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><a href="https://github.com/Kilo-Org/kilocode"><br/><sub><b>Kilo Code</b></sub><br/><sub>                           </sub></a></td>
+    <td align="center" width="76"><br/><sub><b>Roo Code</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Continue</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Qwen Code</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Aider</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>ForgeCode</b></sub><br/><sub>                           </sub></td>
   </tr>
   <tr>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="jcode"/><br/><sub><b>jcode</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/deepseek.svg" width="40" alt="DeepSeek TUI"/><br/><sub><b>DeepSeek TUI</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="CodeWhale"/><br/><sub><b>CodeWhale</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><a href="https://github.com/anomalyco/opencode"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/opencode.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/opencode.svg" width="40" alt="OpenCode"/></picture><br/><sub><b>OpenCode</b></sub><br/><sub>                           </sub></a></td>
-    <td align="center" width="76"><img src="../../../public/providers/droid.svg" width="40" alt="Factory Droid"/><br/><sub><b>Factory Droid</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/copilot.svg" width="40" alt="GitHub Copilot CLI"/><br/><sub><b>Copilot CLI</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cursor.svg" width="40" alt="Cursor CLI"/><br/><sub><b>Cursor CLI</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="Smelt"/><br/><sub><b>Smelt</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>jcode</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>DeepSeek TUI</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>CodeWhale</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><a href="https://github.com/anomalyco/opencode"><br/><sub><b>OpenCode</b></sub><br/><sub>                           </sub></a></td>
+    <td align="center" width="76"><br/><sub><b>Factory Droid</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Copilot CLI</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Cursor CLI</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Smelt</b></sub><br/><sub>                           </sub></td>
   </tr>
   <tr>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="Pi (pi-coding-agent)"/><br/><sub><b>Pi</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/grok.svg" width="40" alt="Grok Build (xAI)"/><br/><sub><b>Grok Build</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/nousresearch.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/nousresearch.svg" width="40" alt="Hermes Agent (Nous Research)"/></picture><br/><sub><b>Hermes Agent</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/openclaw.svg" width="40" alt="OpenClaw"/><br/><sub><b>OpenClaw</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/goose.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/goose.svg" width="40" alt="Goose"/></picture><br/><sub><b>Goose</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="Open Interpreter"/><br/><sub><b>Open Interpreter</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="Warp AI"/><br/><sub><b>Warp AI</b></sub><br/><sub>                           </sub></td>
-    <td align="center" width="76"><img src="../../../public/providers/cli-generic.svg" width="40" alt="Agent Deck"/><br/><sub><b>Agent Deck</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Pi</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Grok Build</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Hermes Agent</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>OpenClaw</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Goose</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Open Interpreter</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Warp AI</b></sub><br/><sub>                           </sub></td>
+    <td align="center" width="76"><br/><sub><b>Agent Deck</b></sub><br/><sub>                           </sub></td>
   </tr>
 </table>
 </div>
@@ -340,26 +340,26 @@ Wszystkie **18** strategii — łącz i dopasowuj na każdym kroku komba:
 
 <table>
   <tr>
-    <td align="center" width="98"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/openai.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/openai.svg" width="40" alt="OpenAI"/></picture><br/><sub>OpenAI</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/claude-color.svg" width="40" alt="Anthropic"/><br/><sub>Anthropic</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/gemini-color.svg" width="40" alt="Gemini"/><br/><sub>Gemini</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/grok.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/grok.svg" width="40" alt="xAI Grok"/></picture><br/><sub>xAI Grok</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/deepseek-color.svg" width="40" alt="DeepSeek"/><br/><sub>DeepSeek</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/mistral-color.svg" width="40" alt="Mistral"/><br/><sub>Mistral</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/qwen-color.svg" width="40" alt="Qwen"/><br/><sub>Qwen</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/meta-color.svg" width="40" alt="Meta Llama"/><br/><sub>Meta Llama</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/groq.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/groq.svg" width="40" alt="Groq"/></picture><br/><sub>Groq</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>OpenAI</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Anthropic</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Gemini</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>xAI Grok</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>DeepSeek</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Mistral</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Qwen</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Meta Llama</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Groq</sub><br/><sub>                           </sub></td>
   </tr>
   <tr>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/nvidia-color.svg" width="40" alt="NVIDIA"/><br/><sub>NVIDIA</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/minimax-color.svg" width="40" alt="MiniMax"/><br/><sub>MiniMax</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/cohere-color.svg" width="40" alt="Cohere"/><br/><sub>Cohere</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/perplexity-color.svg" width="40" alt="Perplexity"/><br/><sub>Perplexity</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/huggingface-color.svg" width="40" alt="Hugging Face"/><br/><sub>HuggingFace</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/together-color.svg" width="40" alt="Together"/><br/><sub>Together</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/fireworks-color.svg" width="40" alt="Fireworks"/><br/><sub>Fireworks</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/cloudflare-color.svg" width="40" alt="Cloudflare"/><br/><sub>Cloudflare</sub><br/><sub>                           </sub></td>
-    <td align="center" width="98"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/baidu-color.svg" width="40" alt="Baidu"/><br/><sub>Baidu</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>NVIDIA</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>MiniMax</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Cohere</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Perplexity</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>HuggingFace</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Together</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Fireworks</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Cloudflare</sub><br/><sub>                           </sub></td>
+    <td align="center" width="98"><br/><sub>Baidu</sub><br/><sub>                           </sub></td>
   </tr>
 </table>
 
@@ -371,13 +371,13 @@ Wszystkie **18** strategii — łącz i dopasowuj na każdym kroku komba:
 
 <table>
   <tr>
-    <td align="center" width="127"><img src="../../../public/providers/agentrouter.png" width="44" alt="AgentRouter"/><br/><b>AgentRouter</b><br/><sub>GPT-5, Claude, Gemini<br/>100 USD darmowych kredytów</sub><br/><sub>                                     </sub></td>
-    <td align="center" width="127"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/qoder-color.svg" width="44" alt="Qoder AI"/><br/><b>Qoder AI</b><br/><sub>Kimi-K2, DeepSeek-R1<br/>Nielimitowane DARMOWE</sub><br/><sub>                                     </sub></td>
-    <td align="center" width="127"><picture><source media="(prefers-color-scheme:dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.91.0/dark/pollinations.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/pollinations.svg" width="44" alt="Pollinations"/></picture><br/><b>Pollinations</b><br/><sub>GPT-5, Claude, Llama 4<br/>Klucz nie jest wymagany</sub><br/><sub>                                     </sub></td>
-    <td align="center" width="127"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/longcat-color.svg" width="44" alt="LongCat"/><br/><b>LongCat</b><br/><sub>LongCat-2.0<br/>10M tokenów jednorazowo (KYC) 🔑</sub><br/><sub>                                     </sub></td>
-    <td align="center" width="127"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/cloudflare-color.svg" width="44" alt="Cloudflare AI"/><br/><b>Cloudflare AI</b><br/><sub>Ponad 50 modeli<br/>10K neuronów/dzień</sub><br/><sub>                                     </sub></td>
-    <td align="center" width="127"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/nvidia-color.svg" width="44" alt="NVIDIA NIM"/><br/><b>NVIDIA NIM</b><br/><sub>129 modeli<br/>~40 RPM darmowo</sub><br/><sub>                                     </sub></td>
-    <td align="center" width="127"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/cerebras-color.svg" width="44" alt="Cerebras"/><br/><b>Cerebras</b><br/><sub>Qwen3 235B<br/>1M tokenów/dzień</sub><br/><sub>                                     </sub></td>
+    <td align="center" width="127"><br/><b>AgentRouter</b><br/><sub>GPT-5, Claude, Gemini<br/>100 USD darmowych kredytów</sub><br/><sub>                                     </sub></td>
+    <td align="center" width="127"><br/><b>Qoder AI</b><br/><sub>Kimi-K2, DeepSeek-R1<br/>Nielimitowane DARMOWE</sub><br/><sub>                                     </sub></td>
+    <td align="center" width="127"><br/><b>Pollinations</b><br/><sub>GPT-5, Claude, Llama 4<br/>Klucz nie jest wymagany</sub><br/><sub>                                     </sub></td>
+    <td align="center" width="127"><br/><b>LongCat</b><br/><sub>LongCat-2.0<br/>10M tokenów jednorazowo (KYC) 🔑</sub><br/><sub>                                     </sub></td>
+    <td align="center" width="127"><br/><b>Cloudflare AI</b><br/><sub>Ponad 50 modeli<br/>10K neuronów/dzień</sub><br/><sub>                                     </sub></td>
+    <td align="center" width="127"><br/><b>NVIDIA NIM</b><br/><sub>129 modeli<br/>~40 RPM darmowo</sub><br/><sub>                                     </sub></td>
+    <td align="center" width="127"><br/><b>Cerebras</b><br/><sub>Qwen3 235B<br/>1M tokenów/dzień</sub><br/><sub>                                     </sub></td>
   </tr>
 </table>
 
@@ -397,7 +397,7 @@ Wszystkie **18** strategii — łącz i dopasowuj na każdym kroku komba:
 | Platforma | Instalacja | Najważniejsze cechy |
 | ------------------------- | ---------------------------------------- | --------------------------------------------------------- |
 | 📦 **npm (globalnie)** | `npm install -g devilroute` | Jedno polecenie, dowolny system operacyjny |
-| 🐳 **Docker** | `docker run … diegosouzapw/devilroute` | Wielonatywność architektur **AMD64 + ARM64** |
+| 🐳 **Docker** | `docker run … devilbhai/devilroute` | Wielonatywność architektur **AMD64 + ARM64** |
 | 🖥️ **Desktop (Electron)** | `npm run electron:build` | Natywne okno + zasobnik systemowy (system tray) — **Windows / macOS / Linux** |
 | 💪 **ARM** | natywnie `arm64` | Raspberry Pi, serwery ARM, Apple Silicon |
 | 📱 **Android (Termux)** | `pkg install nodejs && npx -y devilroute` | Działa **na Twoim telefonie**, 24/7, bez roota |
@@ -415,7 +415,7 @@ Wszystkie **18** strategii — łącz i dopasowuj na każdym kroku komba:
 
 </div>
 
-<img src="../../../docs/diagrams/privacy-local.svg" width="100%" alt="Prywatność i lokalne działanie — Twoje klucze, Twoja maszyna, Twoje dane; DevilRoute to lokalne proxy, które nigdy nie wysyła danych na zewnętrzne serwery. Jedenaście gwarancji: działa w 100% na Twoim sprzęcie (0 przeskoków do chmury), domyślnie zero telemetrii, zaszyfrowane dane uwierzytelniające (AES-256-GCM), brak konieczności zakładania konta czy rejestracji, wzmocniona bramka (ograniczanie zakresu kluczy API, filtrowanie IP, limity zapytań, ochrona przed wstrzykiwaniem promptów), trasy procesów wyłącznie na adresie pętli zwrotnej (loopback-only), oczyszczanie nagłówków wysyłanych do dostawców nadrzędnych, usuwanie danych osobowych (PII) ściśle na żądanie (opt-in), bezpieczne błędy, które nigdy nie ujawniają szczegółów wewnętrznych, lokalny dziennik audytu w Twojej własnej bazie SQLite oraz w pełni otwartoźródłowy kod na licencji MIT."/>
+
 
 <sub>📖 [Autoryzacja](../../../docs/architecture/AUTHZ_GUIDE.md) · [Barierki ochronne](../../../docs/security/GUARDRAILS.md) · [Zgodność](../../../docs/security/COMPLIANCE.md)</sub>
 
@@ -456,7 +456,7 @@ Tokeny mają zakresy `read` / `write` / `admin`; trasy uruchamiające procesy po
 
 <div align="center">
 
-<img src="../../../docs/diagrams/cli-terminal.svg" width="100%" alt="Animowany terminal demonstrujący CLI DevilRoute — devilroute providers list, devilroute combo list, devilroute health — przechodzący przez obszar ponad 80 poleceń: dostawcy · oauth · klucze · kombo · węzły · modele · pamięć podręczna · kompresja · koszt · użycie · limity · stan techniczny · odporność · telemetria · logi · audyt · mcp · a2a · chmura · pamięć · umiejętności · ewaluacja · tunel · kopia zapasowa · synchronizacja · webhooki · polityka · cennik · tłumacz · symulacja …"/>
+
 
 </div>
 
@@ -536,7 +536,7 @@ Bloki kodu, adresy URL i dane strukturyzowane są **zawsze zachowywane** z dokł
 
 ### 📖 Jak to działa — potok, architektura i matematyka oszczędności
 
-<img src="../../../docs/diagrams/compression-pipeline.svg" width="100%" alt="Potok kompresji DevilRoute: żądanie klienta o rozmiarze 10 000 tokenów przechodzi przez 11 ułożonych kaskadowo silników — Session-Dedup, CCR, RTK, Headroom, Relevance, Caveman, LLMLingua-2, Omniglyph, Lite, Aggressive, Ultra — i dociera do dostawcy mając około 1080 tokenów, co daje do 95% oszczędności. Kod, adresy URL i JSON są zawsze zachowywane z dokładnością co do bajtu."/>
+
 
 Domyślne kaskadowe kombo uruchamia `RTK → Caveman`. Gdy oba silniki działają na tym samym ładunku narzędzia/kontekstu, oszczędności się kumulują:
 
@@ -621,7 +621,7 @@ Używaj ich tylko w przypadku klientów, którzy nie mogą dołączyć nagłówk
 
 ```bash
 docker run -d --name devilroute --restart unless-stopped --stop-timeout 40 \
-  -p 20128:20128 -v devilroute-data:/app/data diegosouzapw/devilroute:latest
+  -p 20128:20128 -v devilroute-data:/app/data devilbhai/devilroute:latest
 ```
 
 **🛠️ Ze źródeł**
@@ -701,15 +701,15 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
 <table>
   <tr>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=Rxdc36yUyOQ"><img src="https://img.youtube.com/vi/Rxdc36yUyOQ/maxresdefault.jpg" alt="Guia em Português" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=Rxdc36yUyOQ"></a><br/>
       <b>🇧🇷 Português</b><br/><sub>Pełny przewodnik</sub>
     </td>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=CMzyOiUyEVc"><img src="https://img.youtube.com/vi/CMzyOiUyEVc/maxresdefault.jpg" alt="English Guide" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=CMzyOiUyEVc"></a><br/>
       <b>🇺🇸 English</b><br/><sub>Pełne omówienie</sub>
     </td>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=il_5Ii6v4-Y"><img src="https://img.youtube.com/vi/il_5Ii6v4-Y/maxresdefault.jpg" alt="Руководство" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=il_5Ii6v4-Y"></a><br/>
       <b>🇷🇺 Русский</b><br/><sub>Pełny przewodnik</sub>
     </td>
   </tr>
@@ -718,7 +718,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
 
 <div align="center">
 
-> 🎬 **Nagrałeś film o DevilRoute?** Otwórz [zgłoszenie (issue)](https://github.com/diegosouzapw/DevilRoute/issues/new) lub [dyskusję (discussion)](https://github.com/diegosouzapw/DevilRoute/discussions) z linkiem — umieścimy go tutaj.
+> 🎬 **Nagrałeś film o DevilRoute?** Otwórz [zgłoszenie (issue)](https://github.com/devilbhai/DevilRoute/issues/new) lub [dyskusję (discussion)](https://github.com/devilbhai/DevilRoute/discussions) z linkiem — umieścimy go tutaj.
 
 <br/>
 </div>
@@ -731,10 +731,10 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
 
 | Strona | Zrzut ekranu | Strona | Zrzut ekranu |
 | ---------- | ------------------------------------------------- | ---------- | --------------------------------------------- |
-| Dostawcy | ![Providers](../../../docs/screenshots/01-providers.png) | Komba | ![Combos](../../../docs/screenshots/02-combos.png) |
-| Analityka | ![Analytics](../../../docs/screenshots/03-analytics.png) | Stan techniczny | ![Health](../../../docs/screenshots/04-health.png) |
-| Tłumacz | ![Translator](../../../docs/screenshots/05-translator.png) | Ustawienia | ![Settings](../../../docs/screenshots/06-settings.png) |
-| Narzędzia CLI | ![CLI Tools](../../../docs/screenshots/07-cli-tools.png) | Logi użycia | ![Usage](../../../docs/screenshots/08-usage.png) |
+| Dostawcy |  | Komba |  |
+| Analityka |  | Stan techniczny |  |
+| Tłumacz |  | Ustawienia |  |
+| Narzędzia CLI |  | Logi użycia |  |
 
 <br/>
 
@@ -745,8 +745,8 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
 > 💬 **Rozmawiaj ze społecznością** — linki do Discorda, Telegrama i WhatsAppa (🌍 / 🇧🇷) znajdują się na [górze tego pliku README](#-do%C5%82%C4%85cz-do-spo%C5%82eczno%C5%9Bci).
 
 - 🌍 **Strona internetowa**: [devilroute.online](https://devilroute.online)
-- 🐙 **GitHub**: [github.com/diegosouzapw/DevilRoute](https://github.com/diegosouzapw/DevilRoute)
-- 🐛 **Zgłoszenia (Issues)**: [zgłoś błąd](https://github.com/diegosouzapw/DevilRoute/issues) (dołącz wynik działania komendy `npm run system-info`)
+- 🐙 **GitHub**: [github.com/devilbhai/DevilRoute](https://github.com/devilbhai/DevilRoute)
+- 🐛 **Zgłoszenia (Issues)**: [zgłoś błąd](https://github.com/devilbhai/DevilRoute/issues) (dołącz wynik działania komendy `npm run system-info`)
 - 🤝 **Współtworzenie**: zobacz [CONTRIBUTING.md](CONTRIBUTING.md) lub wybierz zadanie typu `good first issue`
 
 </div>
@@ -773,7 +773,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
 - **CI/CD**: GitHub Actions (automatyczna publikacja w npm + Docker Hub przy wydaniu wersji)
 - **Strona WWW**: [devilroute.online](https://devilroute.online)
 - **Pakiet**: [npmjs.com/package/devilroute](https://www.npmjs.com/package/devilroute)
-- **Docker**: [hub.docker.com/r/diegosouzapw/devilroute](https://hub.docker.com/r/diegosouzapw/devilroute)
+- **Docker**: [hub.docker.com/r/devilbhai/devilroute](https://hub.docker.com/r/devilbhai/devilroute)
 - **Odporność**: Wyłącznik awaryjny (circuit breaker), wykładnicze opóźnienie (exponential backoff), ochrona przed kumulacją zapytań (anti-thundering herd), podszywanie się pod TLS, samonaprawiające się auto-kombo
 
 <div align="center">
@@ -859,7 +859,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
   <tr>
     <td align="center" width="160">
       <a href="https://github.com/oyi77">
-        <img src="https://github.com/oyi77.png" width="40" style="border-radius:50%" alt="oyi77"/><br/>
+        <br/>
         <b>oyi77</b>
       </a><br/>
       <sub>🥇 207 commits • +114K lines</sub><br/>
@@ -867,7 +867,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/rdself">
-        <img src="https://github.com/rdself.png" width="40" style="border-radius:50%" alt="R.D. &amp; Randi"/><br/>
+        <br/>
         <b>R.D. &amp; Randi</b>
       </a><br/>
       <sub>🥈 108 commits • +38K lines</sub><br/>
@@ -875,7 +875,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/christopher-s">
-        <img src="https://github.com/christopher-s.png" width="40" style="border-radius:50%" alt="Chris Staley"/><br/>
+        <br/>
         <b>Chris Staley</b>
       </a><br/>
       <sub>🥉 70 commits • +1.8K lines</sub><br/>
@@ -883,7 +883,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/zen0bit">
-        <img src="https://github.com/zen0bit.png" width="40" style="border-radius:50%" alt="zenobit"/><br/>
+        <br/>
         <b>zenobit</b>
       </a><br/>
       <sub>🏅 62 commits • +22K lines</sub><br/>
@@ -891,7 +891,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/JxnLexn">
-        <img src="https://github.com/JxnLexn.png" width="40" style="border-radius:50%" alt="Jan Leon"/><br/>
+        <br/>
         <b>Jan Leon</b>
       </a><br/>
       <sub>🏅 52 commits • +22K lines</sub><br/>
@@ -901,7 +901,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
   <tr>
     <td align="center" width="160">
       <a href="https://github.com/chirag127">
-        <img src="https://github.com/chirag127.png" width="40" style="border-radius:50%" alt="Chirag Singhal"/><br/>
+        <br/>
         <b>Chirag Singhal</b>
       </a><br/>
       <sub>🏅 46 commits • +4.8K lines</sub><br/>
@@ -909,7 +909,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/backryun">
-        <img src="https://github.com/backryun.png" width="40" style="border-radius:50%" alt="backryun"/><br/>
+        <br/>
         <b>backryun</b>
       </a><br/>
       <sub>🏅 43 commits • +70K lines</sub><br/>
@@ -917,7 +917,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/kfiramar">
-        <img src="https://github.com/kfiramar.png" width="40" style="border-radius:50%" alt="kfiramar"/><br/>
+        <br/>
         <b>kfiramar</b>
       </a><br/>
       <sub>🏅 38 commits • +1.7K lines</sub><br/>
@@ -925,7 +925,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/benzntech">
-        <img src="https://github.com/benzntech.png" width="40" style="border-radius:50%" alt="Benson K B"/><br/>
+        <br/>
         <b>Benson K B</b>
       </a><br/>
       <sub>🏅 28 commits • +9.2K lines</sub><br/>
@@ -933,7 +933,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
     </td>
     <td align="center" width="160">
       <a href="https://github.com/herjarsa">
-        <img src="https://github.com/herjarsa.png" width="40" style="border-radius:50%" alt="Hernan J. Ardila"/><br/>
+        <br/>
         <b>Hernan J. Ardila</b>
       </a><br/>
       <sub>🏅 22 commits • +174K lines</sub><br/>
@@ -956,7 +956,7 @@ W celu uzyskania najszybszej instalacji preferuj **pnpm** (magazyn adresowany tr
 
 </div>
 
-[![Contributors](https://contrib.rocks/image?repo=diegosouzapw/DevilRoute&max=400&columns=20&anon=1)](https://github.com/diegosouzapw/DevilRoute/graphs/contributors)
+[](https://github.com/devilbhai/DevilRoute/graphs/contributors)
 
 ### Jak współtworzyć
 
@@ -981,12 +981,8 @@ gh release create v3.8.2 --title "v3.8.2" --generate-notes
 
 ## 📊 Gwiazdki
 
-<a href="https://www.star-history.com/?repos=diegosouzapw%2FDevilRoute&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/DevilRoute&type=date&theme=dark&legend=top-left&sealed_token=XP_ycEjv7s31p1edvhsMOXry51OWYsUjDRWjflSG7jQKRpO9hPGg7i_EHvwhI6QtrARTMH-YGjJhi8sumRYflEJD0DPlH_MMHjizhBYCX8fbHFrHEiNvVA" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/DevilRoute&type=date&legend=top-left&sealed_token=XP_ycEjv7s31p1edvhsMOXry51OWYsUjDRWjflSG7jQKRpO9hPGg7i_EHvwhI6QtrARTMH-YGjJhi8sumRYflEJD0DPlH_MMHjizhBYCX8fbHFrHEiNvVA" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=diegosouzapw/DevilRoute&type=date&legend=top-left&sealed_token=XP_ycEjv7s31p1edvhsMOXry51OWYsUjDRWjflSG7jQKRpO9hPGg7i_EHvwhI6QtrARTMH-YGjJhi8sumRYflEJD0DPlH_MMHjizhBYCX8fbHFrHEiNvVA" />
- </picture>
+<a href="https://www.star-history.com/?repos=devilbhai%2FDevilRoute&type=date&legend=top-left">
+ 
 </a>
 
 <br/>
@@ -995,12 +991,8 @@ gh release create v3.8.2 --title "v3.8.2" --generate-notes
 
 ## 🌍 StarMapper
 
-<a href="https://starmapper.bruniaux.com/diegosouzapw/devilroute">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute?theme=light" />
-    <img alt="StarMapper" src="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute" />
-  </picture>
+<a href="https://starmapper.bruniaux.com/devilbhai/devilroute">
+  
 </a>
 </div>
 
@@ -1098,9 +1090,9 @@ DevilRoute stoi na barkach gigantów. Projekt powstał jako fork **[9router](htt
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://www.kimi.com"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/kimi-color.svg" width="64" alt="Kimi (Moonshot AI)"/></a>
+      <a href="https://www.kimi.com"></a>
       <br/><b>Kimi</b><br/><sub>Moonshot AI</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Official_Supporter-1783FF?style=flat-square" alt="Oficjalny wspierający"/>
+      
     </td>
     <td>
       Dziękujemy firmie <b>Kimi (Moonshot AI)</b> za sponsorowanie tego projektu! Kimi to laboratorium AI stojące za otwartymi rodzinami modeli K2 i K3 — <b>Kimi K3</b> zapewnia okno kontekstowe o rozmiarze 1M tokenów, natywną obsługę wizji oraz możliwości kodowania na najwyższym poziomie za ułamek ceny modeli zamkniętych, i działa od razu z Claude Code, Codex oraz każdym narzędziem programistycznym obsługiwanym przez DevilRoute.
@@ -1115,8 +1107,8 @@ DevilRoute stoi na barkach gigantów. Projekt powstał jako fork **[9router](htt
 DevilRoute jest darmowym projektem o otwartym kodzie źródłowym, tworzonym i utrzymywanym jawnie. Jeśli pozwala Ci zaoszczędzić czas lub pieniądze, rozważ wsparcie rozwoju:
 
 - ⭐ **Dodaj gwiazdkę do repozytorium** — to naprawdę pomaga w widoczności
-- 💖 **[Sponsorzy GitHub](https://github.com/sponsors/diegosouzapw)** — finansuj bieżące utrzymanie i nowych dostawców
-- 🐛 **Zgłaszaj błędy i dziel się opiniami** w [Dyskusjach](https://github.com/diegosouzapw/DevilRoute/discussions)
+- 💖 **[Sponsorzy GitHub](https://github.com/sponsors/devilbhai)** — finansuj bieżące utrzymanie i nowych dostawców
+- 🐛 **Zgłaszaj błędy i dziel się opiniami** w [Dyskusjach](https://github.com/devilbhai/DevilRoute/discussions)
 
 ## 📄 Licencja
 

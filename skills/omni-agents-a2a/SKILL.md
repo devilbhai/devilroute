@@ -24,7 +24,7 @@ See the full OpenAPI specification at `GET /api/openapi/spec` or `docs/openapi.y
 
 # DevilRoute — A2A Protocol
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 DevilRoute publishes an Agent Card at `/.well-known/agent.json` and accepts
 JSON-RPC 2.0 calls at `/a2a`.
@@ -87,5 +87,5 @@ curl -X POST $DEVILROUTE_URL/a2a \
 
 ## Reference
 
-Full docs: https://github.com/diegosouzapw/DevilRoute/blob/main/docs/frameworks/A2A-SERVER.md
+Full docs: https://github.com/devilbhai/DevilRoute/blob/main/docs/frameworks/A2A-SERVER.md
 <!-- skill:custom-end -->

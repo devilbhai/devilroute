@@ -170,7 +170,7 @@ podman run -d --name devilroute \
   -e DATA_DIR=/app/data \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  docker.io/diegosouzapw/devilroute:latest
+  docker.io/devilbhai/devilroute:latest
 ```
 
 For a bind mount that still fails, inspect or repair the shared path from the

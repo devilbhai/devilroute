@@ -54,7 +54,7 @@ const CRYPTO_SECRETS = {
  * Note: STORAGE_ENCRYPTION_KEY is no longer auto-generated in postinstall.
  * It's generated at server startup in bin/devilroute.mjs and persisted to
  * ~/.devilroute/.env to survive across upgrades.
- * @see https://github.com/diegosouzapw/DevilRoute/issues/1622
+ * @see https://github.com/devilbhai/DevilRoute/issues/1622
  */
 const ENCRYPTION_BOUND_KEYS = new Set([]);
 

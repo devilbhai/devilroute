@@ -334,10 +334,10 @@ depends="openssl"
 short_desc="Universal AI gateway with smart routing for multiple LLM providers"
 maintainer="zenobit <zenobit@disroot.org>"
 license="MIT"
-homepage="https://github.com/diegosouzapw/DevilRoute"
-distfiles="https://github.com/diegosouzapw/DevilRoute/archive/refs/tags/v${version}.tar.gz"
+homepage="https://github.com/devilbhai/DevilRoute"
+distfiles="https://github.com/devilbhai/DevilRoute/archive/refs/tags/v${version}.tar.gz"
 # Regenerate the checksum for each release with:
-#   curl -L -o /tmp/devilroute.tar.gz "https://github.com/diegosouzapw/DevilRoute/archive/refs/tags/v${version}.tar.gz" && sha256sum /tmp/devilroute.tar.gz
+#   curl -L -o /tmp/devilroute.tar.gz "https://github.com/devilbhai/DevilRoute/archive/refs/tags/v${version}.tar.gz" && sha256sum /tmp/devilroute.tar.gz
 checksum=PLACEHOLDER_REGENERATE_PER_RELEASE
 system_accounts="_devilroute"
 devilroute_homedir="/var/lib/devilroute"

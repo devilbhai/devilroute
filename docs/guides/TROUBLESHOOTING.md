@@ -127,7 +127,7 @@ until it lands, new releases can repeat this.
    [Convert]::ToBase64String($b)
    ```
    The output must match `latest.yml` → `sha512`. If it does not, delete the file and
-   re-download only from the [GitHub releases page](https://github.com/diegosouzapw/DevilRoute/releases).
+   re-download only from the [GitHub releases page](https://github.com/devilbhai/DevilRoute/releases).
 2. **Restore + exclude** — restore the rolled-back items from quarantine and add an exclusion
    for `%LOCALAPPDATA%\Programs\DevilRoute` (Kaspersky → Settings → Threats and Exclusions),
    then reinstall.
@@ -310,7 +310,7 @@ see [`docs/guides/KIRO_SETUP.md`](./KIRO_SETUP.md).
 2. **Permanent fix:** Bind to IPv4 explicitly by using `-p 127.0.0.1:20128:20128` in your `docker run` command:
    ```bash
    docker run -d --name devilroute --restart unless-stopped --stop-timeout 40 \
-     -p 127.0.0.1:20128:20128 -v devilroute-data:/app/data diegosouzapw/devilroute:latest
+     -p 127.0.0.1:20128:20128 -v devilroute-data:/app/data devilbhai/devilroute:latest
    ```
    This forces the IPv4 bind and also avoids exposing the proxy on all host interfaces.
 
@@ -609,7 +609,7 @@ Issues specific to the v3.8.0 release and their current workarounds. If a fix la
 
 ## Still Stuck?
 
-- **GitHub Issues**: [github.com/diegosouzapw/DevilRoute/issues](https://github.com/diegosouzapw/DevilRoute/issues)
+- **GitHub Issues**: [github.com/devilbhai/DevilRoute/issues](https://github.com/devilbhai/DevilRoute/issues)
 - **Architecture**: See [`docs/architecture/ARCHITECTURE.md`](../architecture/ARCHITECTURE.md) for internal details
 - **API Reference**: See [`docs/reference/API_REFERENCE.md`](../reference/API_REFERENCE.md) for all endpoints
 - **Health Dashboard**: Check **Dashboard → Health** for real-time system status

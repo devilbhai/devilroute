@@ -6,7 +6,7 @@ description: "Regionalny projekt providerów dla produktów Alibaba Model Studio
 # Rodziny providerów Alibaba i Qwen
 
 Ten dokument zapisuje decyzję implementacyjną dla
-[Issue #7854](https://github.com/diegosouzapw/DevilRoute/issues/7854). Publiczne produkty są
+[Issue #7854](https://github.com/devilbhai/DevilRoute/issues/7854). Publiczne produkty są
 reprezentowane jako cztery rodziny providerów. Region to dane połączenia, a nie osobny produkt.
 
 ## Decyzja

@@ -39,7 +39,7 @@ jobs:
       promote_latest: ${{ steps.version.outputs.promote_latest }}
       skip: ${{ steps.version.outputs.skip }}
     env:
-      IMAGE_NAME: diegosouzapw/devilroute
+      IMAGE_NAME: devilbhai/devilroute
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -113,14 +113,14 @@ jobs:
           #    `main` is always rebuilt (mutable floating tag).
           SKIP="false"
           if [ "$VERSION" != "main" ]; then
-            if docker manifest inspect "diegosouzapw/devilroute:${VERSION}" >/dev/null 2>&1; then
-              echo "Image diegosouzapw/devilroute:${VERSION} already exists on Docker Hub — skipping rebuild."
+            if docker manifest inspect "devilbhai/devilroute:${VERSION}" >/dev/null 2>&1; then
+              echo "Image devilbhai/devilroute:${VERSION} already exists on Docker Hub — skipping rebuild."
               SKIP="true"
             fi
           fi
           echo "skip=$SKIP" >> "$GITHUB_OUTPUT"
 
-          echo "Publishing diegosouzapw/devilroute:$VERSION (promote_latest=$PROMOTE, skip=$SKIP)"
+          echo "Publishing devilbhai/devilroute:$VERSION (promote_latest=$PROMOTE, skip=$SKIP)"
 
   build:
     name: Build Docker (${{ matrix.platform }})
@@ -141,8 +141,8 @@ jobs:
             runner: ubuntu-24.04-arm
             arch: arm64
     env:
-      IMAGE_NAME: diegosouzapw/devilroute
-      GHCR_IMAGE_NAME: ghcr.io/diegosouzapw/devilroute
+      IMAGE_NAME: devilbhai/devilroute
+      GHCR_IMAGE_NAME: ghcr.io/devilbhai/devilroute
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -239,8 +239,8 @@ jobs:
       packages: write
       security-events: write
     env:
-      IMAGE_NAME: diegosouzapw/devilroute
-      GHCR_IMAGE_NAME: ghcr.io/diegosouzapw/devilroute
+      IMAGE_NAME: devilbhai/devilroute
+      GHCR_IMAGE_NAME: ghcr.io/devilbhai/devilroute
       VERSION: ${{ needs.prepare.outputs.version }}
       PROMOTE_LATEST: ${{ needs.prepare.outputs.promote_latest }}
     steps:
@@ -403,6 +403,6 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-          repository: diegosouzapw/devilroute
+          repository: devilbhai/devilroute
           short-description: "DevilRoute — Unified AI proxy. Route any LLM through one endpoint."
           readme-filepath: ./README.md

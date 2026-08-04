@@ -57,7 +57,7 @@ export function parseProxyFamily(value: unknown): ProxyFamily {
 
 ## Why It Exists
 
-Introduced in PR [#3777](https://github.com/diegosouzapw/DevilRoute/pull/3777). The motivating problems:
+Introduced in PR [#3777](https://github.com/devilbhai/DevilRoute/pull/3777). The motivating problems:
 
 | Problem                                         | What the directive fixes                                                                                                                                                                                                                                                                                                            |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -68,10 +68,10 @@
     "auto-fallback"
   ],
   "license": "MIT",
-  "author": "diegosouzapw",
+  "author": "devilbhai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegosouzapw/DevilRoute"
+    "url": "https://github.com/devilbhai/DevilRoute"
   },
   "homepage": "https://devilroute.online",
   "scripts": {

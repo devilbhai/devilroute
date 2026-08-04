@@ -135,7 +135,7 @@ EOF
 ### 2.3 Start the container
 
 ```bash
-docker pull diegosouzapw/devilroute:latest
+docker pull devilbhai/devilroute:latest
 
 docker run -d \
   --name devilroute \
@@ -143,7 +143,7 @@ docker run -d \
   --env-file /opt/devilroute/.env \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ### 2.4 Verify that it is running
@@ -302,13 +302,13 @@ curl -sI https://llms.seudominio.com/health
 ### Upgrade to a new version
 
 ```bash
-docker pull diegosouzapw/devilroute:latest
+docker pull devilbhai/devilroute:latest
 docker stop devilroute && docker rm devilroute
 docker run -d --name devilroute --restart unless-stopped \
   --env-file /opt/devilroute/.env \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ### View logs

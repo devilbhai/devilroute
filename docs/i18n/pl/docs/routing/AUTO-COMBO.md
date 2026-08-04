@@ -133,13 +133,13 @@ Auto-scoring selects best provider/model per request
 Combo, którego `name` jest identyczne z gołym model id (np. combo o nazwie
 `gpt-5.5`), to **zamierzony, wspierany wzorzec**, a nie bug: to mechanizm
 fallbacku providera per-model-id udokumentowany w
-[#6940](https://github.com/diegosouzapw/DevilRoute/issues/6940). Ponieważ
+[#6940](https://github.com/devilbhai/DevilRoute/issues/6940). Ponieważ
 rozwiązanie combo jest sprawdzane przed rozwiązaniem gołego model id
 (`getComboForModel()` w `src/sse/services/model.ts`), żądanie gołego
 id `gpt-5.5` jest routowane przez targety combo (np.
 `acme-responses/gpt-5.5`, `backup-responses/gpt-5.5`) zamiast prosto do
 jednego providera — to wykorzystuje pierwszeństwo combo-before-rewrite zbudowane dla
-[#3227/#3233](https://github.com/diegosouzapw/DevilRoute/issues/3227) i jest
+[#3227/#3233](https://github.com/devilbhai/DevilRoute/issues/3227) i jest
 pokryte testami regresji `tests/unit/responses-combo-resolution-3227.test.ts` oraz
 `tests/unit/combo-name-codex-responses-rewrite.test.ts`.
 

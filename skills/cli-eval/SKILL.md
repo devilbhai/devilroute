@@ -154,7 +154,7 @@ devilroute simulate [prompt]
 
 # DevilRoute — CLI Evals
 
-Requires the `devilroute` CLI. See [CLI entry-point skill](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli/SKILL.md) for install + global flags.
+Requires the `devilroute` CLI. See [CLI entry-point skill](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli/SKILL.md) for install + global flags.
 
 ## What are evals?
 

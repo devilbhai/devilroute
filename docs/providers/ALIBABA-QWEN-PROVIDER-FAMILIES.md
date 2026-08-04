@@ -6,7 +6,7 @@ description: "Regional provider design for Alibaba Model Studio and Qwen Cloud p
 # Alibaba and Qwen provider families
 
 This document records the implementation decision for
-[Issue #7854](https://github.com/diegosouzapw/DevilRoute/issues/7854). The public products are
+[Issue #7854](https://github.com/devilbhai/DevilRoute/issues/7854). The public products are
 represented as four provider families. Region is connection data, not a separate product.
 
 ## Decision

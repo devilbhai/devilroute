@@ -5,7 +5,7 @@
 Jeśli odkryjesz lukę bezpieczeństwa w DevilRoute, zgłoś ją w odpowiedzialny sposób:
 
 1. **NIE** otwieraj publicznego zgłoszenia (issue) na GitHub
-2. Użyj [GitHub Security Advisories](https://github.com/diegosouzapw/DevilRoute/security/advisories/new)
+2. Użyj [GitHub Security Advisories](https://github.com/devilbhai/DevilRoute/security/advisories/new)
 3. Dołącz: opis, kroki reprodukcji oraz potencjalny wpływ
 
 ## Harmonogram reakcji
@@ -186,7 +186,7 @@ docker run -d \
   -e JWT_SECRET="$(openssl rand -base64 48)" \
   -e API_KEY_SECRET="$(openssl rand -hex 32)" \
   -e STORAGE_ENCRYPTION_KEY="$(openssl rand -hex 32)" \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ---

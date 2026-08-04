@@ -618,4 +618,4 @@ mcp-server/
 
 ## License
 
-Part of [DevilRoute](https://github.com/diegosouzapw/DevilRoute) — MIT License.
+Part of [DevilRoute](https://github.com/devilbhai/DevilRoute) — MIT License.

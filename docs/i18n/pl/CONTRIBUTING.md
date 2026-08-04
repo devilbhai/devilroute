@@ -15,7 +15,7 @@ Dziękujemy za zainteresowanie współtworzeniem projektu! Ten przewodnik zawier
 ### Klonowanie i instalacja
 
 ```bash
-git clone https://github.com/diegosouzapw/DevilRoute.git
+git clone https://github.com/devilbhai/DevilRoute.git
 cd DevilRoute
 npm install
 ```
@@ -399,5 +399,5 @@ Następnie użyj skilli `/deploy-vps-*-cc`, które robią rsync `dist/` do zdaln
 - **Dokumentacja API**: Zobacz [`docs/reference/API_REFERENCE.md`](docs/reference/API_REFERENCE.md)
 - **Dokumenty bezpieczeństwa**: [`docs/security/CLI_TOKEN.md`](docs/security/CLI_TOKEN.md), [`docs/security/ROUTE_GUARD_TIERS.md`](docs/security/ROUTE_GUARD_TIERS.md), [`docs/security/ERROR_SANITIZATION.md`](docs/security/ERROR_SANITIZATION.md), [`docs/security/PUBLIC_CREDS.md`](docs/security/PUBLIC_CREDS.md)
 - **Dokumenty ops**: [`docs/ops/SQLITE_RUNTIME.md`](docs/ops/SQLITE_RUNTIME.md)
-- **Issues**: [github.com/diegosouzapw/DevilRoute/issues](https://github.com/diegosouzapw/DevilRoute/issues)
+- **Issues**: [github.com/devilbhai/DevilRoute/issues](https://github.com/devilbhai/DevilRoute/issues)
 - **ADR-y**: Zobacz `docs/adr/` dla architectural decision records

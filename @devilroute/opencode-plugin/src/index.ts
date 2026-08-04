@@ -42,7 +42,7 @@
  * remains supported for users who can't run plugins (CI, scripted scaffolding).
  *
  * @see https://opencode.ai/docs/plugins for the OpenCode plugin contract.
- * @see https://github.com/diegosouzapw/DevilRoute for the AI Gateway.
+ * @see https://github.com/devilbhai/DevilRoute for the AI Gateway.
  */
 
 import { createHash } from "node:crypto";

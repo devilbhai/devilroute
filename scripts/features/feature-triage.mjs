@@ -10,7 +10,7 @@
  *
  * Usage:
  *   node scripts/features/feature-triage.mjs \
- *     --owner diegosouzapw --repo DevilRoute \
+ *     --owner devilbhai --repo DevilRoute \
  *     --output _ideia/_triage.json
  *
  * Exit codes:

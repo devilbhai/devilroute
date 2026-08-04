@@ -40,7 +40,7 @@ const docsLayoutOptions: BaseLayoutProps = {
       secondary: true,
     },
   ],
-  githubUrl: "https://github.com/diegosouzapw/DevilRoute",
+  githubUrl: "https://github.com/devilbhai/DevilRoute",
 };
 
 export default function Layout({ children }: { children: ReactNode }) {

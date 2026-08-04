@@ -2,8 +2,8 @@
 
 Machine status: `in_progress`
 Updated at: `2026-07-14`
-Issue: `https://github.com/diegosouzapw/DevilRoute/issues/5980`
-PR: `https://github.com/diegosouzapw/DevilRoute/pull/7002`
+Issue: `https://github.com/devilbhai/DevilRoute/issues/5980`
+PR: `https://github.com/devilbhai/DevilRoute/pull/7002`
 
 ## Goal
 

@@ -34,7 +34,7 @@ docker run -d \
   --stop-timeout 40 \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ## With Environment File
@@ -50,7 +50,7 @@ docker run -d \
   --env-file .env \
   -p 20128:20128 \
   -v devilroute-data:/app/data \
-  diegosouzapw/devilroute:latest
+  devilbhai/devilroute:latest
 ```
 
 ## Docker Compose
@@ -206,14 +206,14 @@ runtime environment variable.
 
 ### Pre-built root image + runtime subpath
 
-Published `diegosouzapw/devilroute:*` images are built for the domain root. You can still
+Published `devilbhai/devilroute:*` images are built for the domain root. You can still
 set `DEVILROUTE_BASE_PATH` at runtime; the container patches the bundle once on startup.
 Pair it with the matching public origin:
 
 ```yaml
 services:
   devilroute:
-    image: diegosouzapw/devilroute:latest
+    image: devilbhai/devilroute:latest
     environment:
       DEVILROUTE_BASE_PATH: /devilroute
       NEXT_PUBLIC_BASE_URL: https://myhostname.example.com/devilroute
@@ -234,7 +234,7 @@ DevilRoute can be securely exposed using Caddy's automatic SSL provisioning. Ens
 ```yaml
 services:
   devilroute:
-    image: diegosouzapw/devilroute:latest
+    image: devilbhai/devilroute:latest
     container_name: devilroute
     restart: unless-stopped
     volumes:
@@ -286,8 +286,8 @@ Endpoint tunnel panels (Cloudflare, Tailscale, ngrok) can be shown or hidden fro
 
 | Image                    | Tag      | Size   | Description           |
 | ------------------------ | -------- | ------ | --------------------- |
-| `diegosouzapw/devilroute` | `latest` | ~250MB | Latest stable release |
-| `diegosouzapw/devilroute` | `3.8.0`  | ~250MB | Current version       |
+| `devilbhai/devilroute` | `latest` | ~250MB | Latest stable release |
+| `devilbhai/devilroute` | `3.8.0`  | ~250MB | Current version       |
 
 Multi-platform manifest: `linux/amd64` + `linux/arm64` native (Apple Silicon, AWS Graviton, Raspberry Pi). Docker selects the matching architecture automatically; pass `--platform linux/amd64` if you need to force AMD64 emulation on ARM hosts.
 

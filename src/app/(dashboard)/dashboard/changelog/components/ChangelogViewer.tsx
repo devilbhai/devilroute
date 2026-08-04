@@ -15,7 +15,7 @@ function resolveChangelogHref(href: string | undefined): string | null {
   if (href.startsWith("#")) return href;
 
   try {
-    const url = new URL(href, "https://github.com/diegosouzapw/DevilRoute/blob/main/");
+    const url = new URL(href, "https://github.com/devilbhai/DevilRoute/blob/main/");
     return url.protocol === "https:" ? url.toString() : null;
   } catch {
     return null;

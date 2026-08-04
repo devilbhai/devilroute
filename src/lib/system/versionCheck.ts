@@ -33,7 +33,7 @@ const NPM_REGISTRY_LATEST_URL = "https://registry.npmjs.org/devilroute/latest";
  * surviving cause of "#4100 still not fixed" after the registry fallback shipped in v3.8.28.
  */
 const GITHUB_RELEASES_LATEST_URL =
-  "https://api.github.com/repos/diegosouzapw/DevilRoute/releases/latest";
+  "https://api.github.com/repos/devilbhai/DevilRoute/releases/latest";
 
 const LOOKUP_TIMEOUT_MS = 10_000;
 const MAX_VERSION_RESPONSE_BYTES = 16 * 1024;

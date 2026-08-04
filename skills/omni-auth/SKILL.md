@@ -107,28 +107,28 @@ Use `data[].id` as `model` field in requests. Combos appear with `owned_by:"comb
 
 | Capability            | Raw URL                                                                                             |
 | --------------------- | --------------------------------------------------------------------------------------------------- |
-| Chat / code-gen       | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-chat/SKILL.md        |
-| Image generation      | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-image/SKILL.md       |
-| Text-to-speech        | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-tts/SKILL.md         |
-| Speech-to-text        | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-stt/SKILL.md         |
-| Embeddings            | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-embeddings/SKILL.md  |
-| Web search            | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-web-search/SKILL.md  |
-| Web fetch             | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-web-fetch/SKILL.md   |
-| MCP server (37 tools) | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-mcp/SKILL.md         |
-| A2A protocol          | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-a2a/SKILL.md         |
-| Routing & combos      | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-routing/SKILL.md     |
-| Token compression     | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-compression/SKILL.md |
-| Monitoring & health   | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-monitoring/SKILL.md  |
+| Chat / code-gen       | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-chat/SKILL.md        |
+| Image generation      | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-image/SKILL.md       |
+| Text-to-speech        | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-tts/SKILL.md         |
+| Speech-to-text        | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-stt/SKILL.md         |
+| Embeddings            | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-embeddings/SKILL.md  |
+| Web search            | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-web-search/SKILL.md  |
+| Web fetch             | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-web-fetch/SKILL.md   |
+| MCP server (37 tools) | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-mcp/SKILL.md         |
+| A2A protocol          | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-a2a/SKILL.md         |
+| Routing & combos      | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-routing/SKILL.md     |
+| Token compression     | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-compression/SKILL.md |
+| Monitoring & health   | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-monitoring/SKILL.md  |
 
 ## CLI skills (devilroute binary)
 
 | Capability             | Raw URL                                                                                               |
 | ---------------------- | ----------------------------------------------------------------------------------------------------- |
-| CLI entry point        | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli/SKILL.md           |
-| CLI admin & lifecycle  | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-admin/SKILL.md     |
-| CLI providers & keys   | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-providers/SKILL.md |
-| CLI cloud agents       | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-cloud/SKILL.md     |
-| CLI evals & benchmarks | https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute-cli-eval/SKILL.md      |
+| CLI entry point        | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli/SKILL.md           |
+| CLI admin & lifecycle  | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-admin/SKILL.md     |
+| CLI providers & keys   | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-providers/SKILL.md |
+| CLI cloud agents       | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-cloud/SKILL.md     |
+| CLI evals & benchmarks | https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute-cli-eval/SKILL.md      |
 
 ## Errors
 

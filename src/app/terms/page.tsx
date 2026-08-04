@@ -77,7 +77,7 @@ export default function TermsPage() {
           <p>
             {t("questionsVisit")}{" "}
             <a
-              href="https://github.com/diegosouzapw/DevilRoute"
+              href="https://github.com/devilbhai/DevilRoute"
               className="text-primary hover:underline"
               target="_blank"
               rel="noopener noreferrer"

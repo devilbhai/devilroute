@@ -398,7 +398,7 @@ Dwa domyślne ustawienia DevilRoute mogą cicho psuć wielogodzinne sesje Codex 
 | Sesja przełącza konta / ciągłość prompt-cache ginie między turami     | TTL session affinity to `0` (wyłączone)                         | `sessionAffinityTtlMs`   |
 | Połączenie pada w trakcie reasoning bez komunikatu po stronie klienta | Watchdog idle streama odciął po 10 minutach bez chunka upstream | `STREAM_IDLE_TIMEOUT_MS` |
 
-Powiązane dyskusje: [#7126](https://github.com/diegosouzapw/DevilRoute/discussions/7126) (zrywanie długich zadań), [#5718](https://github.com/diegosouzapw/DevilRoute/discussions/5718) (dlaczego affinity jest domyślnie wyłączone). Tracking: [#7287](https://github.com/diegosouzapw/DevilRoute/issues/7287).
+Powiązane dyskusje: [#7126](https://github.com/devilbhai/DevilRoute/discussions/7126) (zrywanie długich zadań), [#5718](https://github.com/devilbhai/DevilRoute/discussions/5718) (dlaczego affinity jest domyślnie wyłączone). Tracking: [#7287](https://github.com/devilbhai/DevilRoute/issues/7287).
 
 ### 1. Session affinity — przypnij jedną rozmowę do jednego konta
 

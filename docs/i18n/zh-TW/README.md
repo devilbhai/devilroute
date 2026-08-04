@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="../../screenshots/MainDevilRoute.png" alt="DevilRoute 儀表板" width="820"/>
+
 
 <br/>
 
@@ -26,41 +26,41 @@
 
 <br/>
 
-[![290 AI Providers](https://img.shields.io/badge/290-AI_Providers-6C5CE7?style=for-the-badge)](#-290-ai-providers--90-free)
-[![90+ Free](https://img.shields.io/badge/90%2B-Free_Tiers-00B894?style=for-the-badge)](#-290-ai-providers--90-free)
-[![1.53B Free Tokens/mo](https://img.shields.io/badge/1.53B-Free_Tokens%2Fmo-00B894?style=for-the-badge)](../../reference/FREE_TIERS.md)
-[![Token Savings](https://img.shields.io/badge/up_to_95%25-Token_Savings-E17055?style=for-the-badge)](#%EF%B8%8F-save-1595-tokens--automatically)
-[![19 Strategies](https://img.shields.io/badge/19-Routing_Strategies-0984E3?style=for-the-badge)](#-combos--the-flagship)
-[![$0 to start](https://img.shields.io/badge/%240-To_Start-FDCB6E?style=for-the-badge&logoColor=black)](#-quick-start)
+[](#-290-ai-providers--90-free)
+[](#-290-ai-providers--90-free)
+[](../../reference/FREE_TIERS.md)
+[](#%EF%B8%8F-save-1595-tokens--automatically)
+[](#-combos--the-flagship)
+[](#-quick-start)
 
 <br/>
 
 ### 💬 加入社群
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U47eFqAXCn)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devilrouteOficial)
-[![WhatsApp Global](https://img.shields.io/badge/WhatsApp_Global-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
-[![WhatsApp Brasil](https://img.shields.io/badge/WhatsApp_Brasil-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)
+[](https://discord.gg/U47eFqAXCn)
+[](https://t.me/devilrouteOficial)
+[](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t)
+[](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)
 
 **問題、提供者技巧、路線圖與支援 → [Discord](https://discord.gg/U47eFqAXCn) · [Telegram](https://t.me/devilrouteOficial) · WhatsApp [🌍 全球](https://chat.whatsapp.com/JI7cDQ1GyaiDHhVBpLxf8b?mode=gi_t) / [🇧🇷 巴西](https://chat.whatsapp.com/LTSpdFhXTxjH4R6CCNiKWz)**
 
 <br/>
 
-<a href="https://trendshift.io/repositories/23589" target="_blank"><img src="https://trendshift.io/api/badge/repositories/23589" alt="diegosouzapw%2FDevilRoute | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/23589" target="_blank"></a>
 
-[![npm](https://img.shields.io/npm/v/devilroute?logo=npm&style=flat-square)](https://www.npmjs.com/package/devilroute)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](../../LICENSE)
-[![Node](https://img.shields.io/badge/node-%E2%89%A522.0.0-brightgreen?style=flat-square)](../../package.json)
-[![Stars](https://img.shields.io/github/stars/diegosouzapw/DevilRoute?style=social)](https://github.com/diegosouzapw/DevilRoute)
+[](https://www.npmjs.com/package/devilroute)
+[](../../LICENSE)
+[](../../package.json)
+[](https://github.com/devilbhai/DevilRoute)
 
 <div align="center">
 
-[![npm version](https://img.shields.io/npm/v/devilroute?color=cb3837&logo=npm)](https://www.npmjs.com/package/devilroute)
-![NPM Monthly](https://img.shields.io/npm/dm/devilroute?label=npm/month&color=cb3837&logo=npm)
-[![Docker Hub](https://img.shields.io/docker/v/diegosouzapw/devilroute?label=Docker%20Hub&logo=docker&color=2496ED)](https://hub.docker.com/r/diegosouzapw/devilroute)
-![Docker Pulls](https://img.shields.io/docker/pulls/diegosouzapw/devilroute?label=docker%20pulls&logo=docker&color=2496ED)
-![Electron Downloads](https://img.shields.io/github/downloads/diegosouzapw/devilroute/total?style=flat&label=electron%20downloads&logo=electron&color=47848F)
-[![Website](https://img.shields.io/badge/Website-devilroute.online-blue?logo=google-chrome&logoColor=white)](https://devilroute.online)
+[](https://www.npmjs.com/package/devilroute)
+
+[](https://hub.docker.com/r/devilbhai/devilroute)
+
+
+[](https://devilroute.online)
 
 </div>
 
@@ -132,7 +132,7 @@
 - **加上不可計數的免費資源** — 永久免費、無 Token 上限的提供者（SiliconFlow、Z.AI GLM-Flash、Kilo、OpenCode Zen…）以及 **$10 OpenRouter 充值**可解鎖 **+24M/月**，兩者獨立列出，絕不誇大統計數字。
 - **按模型細分**，當月**已用/剩餘**即時顯示，以及每個提供者的透明**條款標記**。
 
-![Free-Tier Budget card (preview mockup)](../../screenshots/free-tier-budget-card.svg)
+
 
 > 預覽模型 — 實際截圖將在 `/dashboard/free-tiers` 頁面驗證後上線。完整方法論（池去重、信用層級、提供者條款）：**[docs/reference/FREE_TIERS.md](../../reference/FREE_TIERS.md)**。
 
@@ -318,19 +318,19 @@ Result: 4 layers of fallback = zero downtime
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="120"><a href="https://github.com/anthropics/claude-code"><img src="../../public/providers/claude.svg" width="52" alt="Claude Code"/><br/><b>Claude Code</b></a></td>
-    <td align="center" width="120"><a href="https://github.com/openai/codex"><img src="../../public/providers/codex.svg" width="52" alt="Codex CLI"/><br/><b>Codex CLI</b></a></td>
-    <td align="center" width="120"><img src="../../public/providers/cursor.png" width="52" alt="Cursor"/><br/><b>Cursor</b></td>
-    <td align="center" width="120"><img src="../../public/providers/copilot.png" width="52" alt="Copilot"/><br/><b>Copilot</b></td>
-    <td align="center" width="120"><img src="../../public/providers/continue.png" width="52" alt="Continue"/><br/><b>Continue</b></td>
+    <td align="center" width="120"><a href="https://github.com/anthropics/claude-code"><br/><b>Claude Code</b></a></td>
+    <td align="center" width="120"><a href="https://github.com/openai/codex"><br/><b>Codex CLI</b></a></td>
+    <td align="center" width="120"><br/><b>Cursor</b></td>
+    <td align="center" width="120"><br/><b>Copilot</b></td>
+    <td align="center" width="120"><br/><b>Continue</b></td>
   </tr>
   <tr>
-    <td align="center" width="120"><a href="https://github.com/anomalyco/opencode"><img src="../../public/providers/opencode.svg" width="52" alt="OpenCode"/><br/><b>OpenCode</b></a></td>
-    <td align="center" width="120"><a href="https://github.com/Kilo-Org/kilocode"><img src="../../public/providers/kilocode.svg" width="52" alt="Kilo Code"/><br/><b>Kilo Code</b></a></td>
-    <td align="center" width="120"><img src="../../public/providers/droid.svg" width="52" alt="Droid"/><br/><b>Droid</b></td>
-    <td align="center" width="120"><img src="../../public/providers/openclaw.png" width="52" alt="OpenClaw"/><br/><b>OpenClaw</b></td>
-    <td align="center" width="120"><img src="../../public/providers/kiro.svg" width="52" alt="Kiro"/><br/><b>Kiro</b></td>
-    <td align="center" width="120"><img src="../../public/providers/command-code.svg" width="52" alt="Command Code"/><br/><b>Command</b></td>
+    <td align="center" width="120"><a href="https://github.com/anomalyco/opencode"><br/><b>OpenCode</b></a></td>
+    <td align="center" width="120"><a href="https://github.com/Kilo-Org/kilocode"><br/><b>Kilo Code</b></a></td>
+    <td align="center" width="120"><br/><b>Droid</b></td>
+    <td align="center" width="120"><br/><b>OpenClaw</b></td>
+    <td align="center" width="120"><br/><b>Kiro</b></td>
+    <td align="center" width="120"><br/><b>Command</b></td>
   </tr>
 </table>
 </div>
@@ -357,15 +357,15 @@ Result: 4 layers of fallback = zero downtime
 
 <table>
   <tr>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/AgentRouter-FF6600?style=flat-square" alt="AgentRouter"/><br/><sub>GPT-5, Claude, Gemini<br/>$100 免費額度</sub></td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Qoder_AI-6366F1?style=flat-square" alt="Qoder AI"/><br/><sub>Kimi-K2, DeepSeek-R1<br/>無限 FREE</sub></td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Pollinations-10B981?style=flat-square" alt="Pollinations"/><br/><sub>GPT-5, Claude, Llama 4<br/>無需金鑰</sub></td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/LongCat-FF7A00?style=flat-square" alt="LongCat"/><br/><sub>Flash-Lite<br/>5000 萬 Token/天 🔥</sub></td>
+    <td align="center" width="150"><br/><sub>GPT-5, Claude, Gemini<br/>$100 免費額度</sub></td>
+    <td align="center" width="150"><br/><sub>Kimi-K2, DeepSeek-R1<br/>無限 FREE</sub></td>
+    <td align="center" width="150"><br/><sub>GPT-5, Claude, Llama 4<br/>無需金鑰</sub></td>
+    <td align="center" width="150"><br/><sub>Flash-Lite<br/>5000 萬 Token/天 🔥</sub></td>
   </tr>
   <tr>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Cloudflare_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare AI"/><br/><sub>50+ 模型<br/>1 萬 neurons/天</sub></td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM"/><br/><sub>129 模型<br/>~40 RPM 免費</sub></td>
-    <td align="center" width="150"><img src="https://img.shields.io/badge/Cerebras-F15A29?style=flat-square" alt="Cerebras"/><br/><sub>Qwen3 235B<br/>100 萬 Token/天</sub></td>
+    <td align="center" width="150"><br/><sub>50+ 模型<br/>1 萬 neurons/天</sub></td>
+    <td align="center" width="150"><br/><sub>129 模型<br/>~40 RPM 免費</sub></td>
+    <td align="center" width="150"><br/><sub>Qwen3 235B<br/>100 萬 Token/天</sub></td>
   </tr>
 </table>
 
@@ -385,7 +385,7 @@ Result: 4 layers of fallback = zero downtime
 | 平台                     | 安裝方式                                     | 亮點                                            |
 | ------------------------ | -------------------------------------------- | ----------------------------------------------- |
 | 📦 **npm（全域）**       | `npm install -g devilroute`                   | 一條命令，任何作業系統                          |
-| 🐳 **Docker**            | `docker run … diegosouzapw/devilroute`        | 多架構 **AMD64 + ARM64**                        |
+| 🐳 **Docker**            | `docker run … devilbhai/devilroute`        | 多架構 **AMD64 + ARM64**                        |
 | 🖥️ **桌面（Electron）**  | `npm run electron:build`                     | 原生視窗 + 系統匣 — **Windows / macOS / Linux** |
 | 💪 **ARM**               | 原生 `arm64`                                 | Raspberry Pi、ARM 伺服器、Apple Silicon         |
 | 📱 **Android（Termux）** | `pkg install nodejs-lts && npx -y devilroute` | **在手機上**執行，24/7，無需 root               |
@@ -614,7 +614,7 @@ Ollama tags:      http://localhost:20128/vscode/YOUR_KEY/api/tags
 
 ```bash
 docker run -d --name devilroute --restart unless-stopped --stop-timeout 40 \
-  -p 20128:20128 -v devilroute-data:/app/data diegosouzapw/devilroute:latest
+  -p 20128:20128 -v devilroute-data:/app/data devilbhai/devilroute:latest
 ```
 
 **🛠️ 從原始碼建構**
@@ -681,15 +681,15 @@ podman compose --profile base up -d --build
 <table>
   <tr>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=Rxdc36yUyOQ"><img src="https://img.youtube.com/vi/Rxdc36yUyOQ/maxresdefault.jpg" alt="Guia em Português" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=Rxdc36yUyOQ"></a><br/>
       <b>🇧🇷 Português</b><br/><sub>Guia completo</sub>
     </td>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=CMzyOiUyEVc"><img src="https://img.youtube.com/vi/CMzyOiUyEVc/maxresdefault.jpg" alt="English Guide" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=CMzyOiUyEVc"></a><br/>
       <b>🇺🇸 English</b><br/><sub>Complete walkthrough</sub>
     </td>
     <td align="center" width="280">
-      <a href="https://www.youtube.com/watch?v=il_5Ii6v4-Y"><img src="https://img.youtube.com/vi/il_5Ii6v4-Y/maxresdefault.jpg" alt="Руководство" width="260"/></a><br/>
+      <a href="https://www.youtube.com/watch?v=il_5Ii6v4-Y"></a><br/>
       <b>🇷🇺 Русский</b><br/><sub>Полное руководство</sub>
     </td>
   </tr>
@@ -698,7 +698,7 @@ podman compose --profile base up -d --build
 
 <div align="center">
 
-> 🎬 **製作了關於 DevilRoute 的影片？** 透過連結開啟 [issue](https://github.com/diegosouzapw/DevilRoute/issues/new) 或 [discussion](https://github.com/diegosouzapw/DevilRoute/discussions) — 我們會在此展示。
+> 🎬 **製作了關於 DevilRoute 的影片？** 透過連結開啟 [issue](https://github.com/devilbhai/DevilRoute/issues/new) 或 [discussion](https://github.com/devilbhai/DevilRoute/discussions) — 我們會在此展示。
 
 <br/>
 </div>
@@ -838,10 +838,10 @@ podman compose --profile base up -d --build
 
 | 頁面       | 截圖                                               | 頁面       | 截圖                                           |
 | ---------- | -------------------------------------------------- | ---------- | ---------------------------------------------- |
-| Providers  | ![Providers](../../screenshots/01-providers.png)   | Combos     | ![Combos](../../screenshots/02-combos.png)     |
-| Analytics  | ![Analytics](../../screenshots/03-analytics.png)   | Health     | ![Health](../../screenshots/04-health.png)     |
-| Translator | ![Translator](../../screenshots/05-translator.png) | Settings   | ![Settings](../../screenshots/06-settings.png) |
-| CLI Tools  | ![CLI Tools](../../screenshots/07-cli-tools.png)   | Usage Logs | ![Usage](../../screenshots/08-usage.png)       |
+| Providers  |    | Combos     |      |
+| Analytics  |    | Health     |      |
+| Translator |  | Settings   |  |
+| CLI Tools  |    | Usage Logs |        |
 
 </details>
 
@@ -854,8 +854,8 @@ podman compose --profile base up -d --build
 > 💬 **與社群聊天** — Discord、Telegram 和 WhatsApp（🌍 / 🇧🇷）連結在[本 README 頂部](#-join-the-community)。
 
 - 🌍 **網站**：[devilroute.online](https://devilroute.online)
-- 🐙 **GitHub**：[github.com/diegosouzapw/DevilRoute](https://github.com/diegosouzapw/DevilRoute)
-- 🐛 **Issue**：[回報錯誤](https://github.com/diegosouzapw/DevilRoute/issues)（請附上 `npm run system-info` 輸出）
+- 🐙 **GitHub**：[github.com/devilbhai/DevilRoute](https://github.com/devilbhai/DevilRoute)
+- 🐛 **Issue**：[回報錯誤](https://github.com/devilbhai/DevilRoute/issues)（請附上 `npm run system-info` 輸出）
 - 🤝 **貢獻**：參見 [CONTRIBUTING.md](../../CONTRIBUTING.md) 或選擇 `good first issue`
 
 </div>
@@ -882,7 +882,7 @@ podman compose --profile base up -d --build
 - **CI/CD**：GitHub Actions（發布時自動 npm 發布 + Docker Hub）
 - **網站**：[devilroute.online](https://devilroute.online)
 - **套件**：[npmjs.com/package/devilroute](https://www.npmjs.com/package/devilroute)
-- **Docker**：[hub.docker.com/r/diegosouzapw/devilroute](https://hub.docker.com/r/diegosouzapw/devilroute)
+- **Docker**：[hub.docker.com/r/devilbhai/devilroute](https://hub.docker.com/r/devilbhai/devilroute)
 - **彈性**：斷路器、指數退避、反奔湧群、TLS 偽造、自動 Combo 自我修復
 
 <div align="center">
@@ -966,7 +966,7 @@ podman compose --profile base up -d --build
   <tr>
     <td align="center" width="160">
       <a href="https://github.com/oyi77">
-        <img src="https://github.com/oyi77.png" width="80" style="border-radius:50%" alt="oyi77"/><br/>
+        <br/>
         <b>oyi77</b>
       </a><br/>
       <sub>🥇 190 commits • +72K lines</sub><br/>
@@ -974,7 +974,7 @@ podman compose --profile base up -d --build
     </td>
     <td align="center" width="160">
       <a href="https://github.com/christopher-s">
-        <img src="https://github.com/christopher-s.png" width="80" style="border-radius:50%" alt="Chris Staley"/><br/>
+        <br/>
         <b>Chris Staley</b>
       </a><br/>
       <sub>🥈 72 commits • +5.7K lines</sub><br/>
@@ -982,7 +982,7 @@ podman compose --profile base up -d --build
     </td>
     <td align="center" width="160">
       <a href="https://github.com/zenobit">
-        <img src="https://github.com/zenobit.png" width="80" style="border-radius:50%" alt="zenobit"/><br/>
+        <br/>
         <b>zenobit</b>
       </a><br/>
       <sub>🥉 62 commits • +24K lines</sub><br/>
@@ -990,7 +990,7 @@ podman compose --profile base up -d --build
     </td>
     <td align="center" width="160">
       <a href="https://github.com/rdself">
-        <img src="https://github.com/rdself.png" width="80" style="border-radius:50%" alt="R.D. & Randi"/><br/>
+        <br/>
         <b>R.D. & Randi</b>
       </a><br/>
       <sub>🏅 107 commits • +28K lines</sub><br/>
@@ -998,7 +998,7 @@ podman compose --profile base up -d --build
     </td>
     <td align="center" width="160">
       <a href="https://github.com/benzntech">
-        <img src="https://github.com/benzntech.png" width="80" style="border-radius:50%" alt="benzntech"/><br/>
+        <br/>
         <b>benzntech</b>
       </a><br/>
       <sub>🏅 20 commits • +7.5K lines</sub><br/>
@@ -1021,7 +1021,7 @@ podman compose --profile base up -d --build
 
 </div>
 
-[![Contributors](https://contrib.rocks/image?repo=diegosouzapw/DevilRoute&max=100&columns=20&anon=1)](https://github.com/diegosouzapw/DevilRoute/graphs/contributors)
+[](https://github.com/devilbhai/DevilRoute/graphs/contributors)
 
 ### 如何貢獻
 
@@ -1046,12 +1046,8 @@ gh release create v3.8.2 --title "v3.8.2" --generate-notes
 
 ## 📊 Stars
 
-<a href="https://www.star-history.com/?repos=diegosouzapw%2Fdevilroute&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=diegosouzapw/devilroute&type=date&legend=top-left" />
- </picture>
+<a href="https://www.star-history.com/?repos=devilbhai%2Fdevilroute&type=date&legend=top-left">
+ 
 </a>
 </div>
 
@@ -1061,12 +1057,8 @@ gh release create v3.8.2 --title "v3.8.2" --generate-notes
 
 ## 🌍 StarMapper
 
-<a href="https://starmapper.bruniaux.com/diegosouzapw/devilroute">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute?theme=light" />
-    <img alt="StarMapper" src="https://starmapper.bruniaux.com/api/map-image/diegosouzapw/devilroute" />
-  </picture>
+<a href="https://starmapper.bruniaux.com/devilbhai/devilroute">
+  
 </a>
 </div>
 
@@ -1149,8 +1141,8 @@ DevilRoute 站在巨人的肩膀上。它始於 **[9router](https://github.com/d
 DevilRoute 是免費且開源的，在公開環境中建構和維護。如果它為您節省了時間或金錢，請考慮支援其開發：
 
 - ⭐ **為倉庫加星** — 這確實有助於提高能見度
-- 💖 **[GitHub Sponsors](https://github.com/sponsors/diegosouzapw)** — 資助持續維護和新提供者
-- 🐛 **在 [Discussions](https://github.com/diegosouzapw/DevilRoute/discussions) 中回報錯誤和分享意見回饋**
+- 💖 **[GitHub Sponsors](https://github.com/sponsors/devilbhai)** — 資助持續維護和新提供者
+- 🐛 **在 [Discussions](https://github.com/devilbhai/DevilRoute/discussions) 中回報錯誤和分享意見回饋**
 
 ## 📄 授權
 

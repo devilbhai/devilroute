@@ -156,7 +156,7 @@ loadEnvFile();
 
 // Generate STORAGE_ENCRYPTION_KEY if not set (persisted to ~/.devilroute/.env)
 // This ensures the key survives across upgrades and is not regenerated on each install.
-// See: https://github.com/diegosouzapw/DevilRoute/issues/1622
+// See: https://github.com/devilbhai/DevilRoute/issues/1622
 //
 // Only provision for commands that actually touch encrypted storage. Purely
 // informational invocations (`--version`, `--help`, `help`) must not create a

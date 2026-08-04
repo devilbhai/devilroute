@@ -333,7 +333,7 @@ Anda dapat mengabaikan bagian ini jika Anda tidak menjalankan pipeline RAG atau 
 
 ## Masih Terjebak?
 
-- **GitHub Issues**: [github.com/diegosouzapw/DevilRoute/issues](https://github.com/diegosouzapw/DevilRoute/issues)
+- **GitHub Issues**: [github.com/devilbhai/DevilRoute/issues](https://github.com/devilbhai/DevilRoute/issues)
 - **Arsitektur**: Lihat [`docs/architecture/ARCHITECTURE.md`](ARCHITECTURE.md) untuk detail internal
 - **Referensi API**: Lihat [`docs/reference/API_REFERENCE.md`](API_REFERENCE.md) untuk semua endpoint
 - **Health Dashboard**: Periksa **Dashboard → Health** untuk status sistem secara real-time

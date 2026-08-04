@@ -6,7 +6,7 @@ lastUpdated: 2026-07-23
 
 # Inwentaryzacja sprzężenia z SQLite
 
-- **Tracking issue:** [#8075](https://github.com/diegosouzapw/DevilRoute/issues/8075)
+- **Tracking issue:** [#8075](https://github.com/devilbhai/DevilRoute/issues/8075)
 - **Snapshot revision:** `9a3b605f3420ae3ab08bd93d6443034f03a1bcbc`
 - **Scanned-corpus SHA-256:** `72334620a7a18a42bcede1643fb2fdf95da6eae9ffa66a891ae14ed633ad43f6`
 - **Cel:** Zmierz aktualne linie cięcia warstwy persystencji przed zaproponowaniem interfejsów repozytoriów

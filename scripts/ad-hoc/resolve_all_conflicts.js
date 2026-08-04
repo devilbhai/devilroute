@@ -96,7 +96,7 @@ async function main() {
     // Resolve comment / modelStr conflict
     content = content.replace(
       /<<<<<<< HEAD\r?\n=======\r?\n\s+\/\/ `let` because the middleware-hook pipeline \(line ~319\) may reassign this\r?\n\s+\/\/ when a hook rewrites the target model\. Previously declared `const`, which\r?\n\s+\/\/ broke turbopack\/strict-mode builds \(PR #2670 regression\)\.\r?\n>>>>>>> release\/v3\.8\.4\r?\n\s+let modelStr = body\.model;/g,
-      "  // `let` because the middleware-hook pipeline (line ~319) may reassign this\n  // when a hook rewrites the target model. Previously declared `const`, which\n  // broke turbopack/strict-mode builds (PR [PR #2670](file:///home/diegosouzapw/dev/proxys/DevilRoute/package.json#L2670) regression).\n  let modelStr = body.model;"
+      "  // `let` because the middleware-hook pipeline (line ~319) may reassign this\n  // when a hook rewrites the target model. Previously declared `const`, which\n  // broke turbopack/strict-mode builds (PR [PR #2670](file:///home/devilbhai/dev/proxys/DevilRoute/package.json#L2670) regression).\n  let modelStr = body.model;"
     );
 
     // Resolve trafficType / modelAbortSignal conflict (1st occurrence)

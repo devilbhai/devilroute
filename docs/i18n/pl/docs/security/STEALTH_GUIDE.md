@@ -139,7 +139,7 @@ Punkty styku:
 
 - `open-sse/executors/antigravity.ts` — czyta `process.env.ANTIGRAVITY_CREDITS`
 - `src/lib/oauth/providers/antigravity.ts` — plumbing poświadczeń
-- Oryginalny raport incydentu: Discussion [#1183](https://github.com/diegosouzapw/DevilRoute/discussions/1183)
+- Oryginalny raport incydentu: Discussion [#1183](https://github.com/devilbhai/DevilRoute/discussions/1183)
 
 ---
 

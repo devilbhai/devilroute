@@ -4,7 +4,7 @@
 
 ## Why this and not `@devilroute/opencode-provider`?
 
-`@devilroute/opencode-provider` is the legacy config-generator package — it writes a frozen `provider.devilroute` block into `opencode.json` with a **hardcoded list of 8 models** ([`DEVILROUTE_DEFAULT_OPENCODE_MODELS`](https://github.com/diegosouzapw/DevilRoute/blob/main/%40devilroute/opencode-provider/src/index.ts#L48-L56)). It works on the CLI but in the **OpenCode Desktop / Web** builds (Tauri / Electron) the runtime re-runs the model picker and the static block surfaces only a few of those — and they drift behind the live DevilRoute catalog.
+`@devilroute/opencode-provider` is the legacy config-generator package — it writes a frozen `provider.devilroute` block into `opencode.json` with a **hardcoded list of 8 models** ([`DEVILROUTE_DEFAULT_OPENCODE_MODELS`](https://github.com/devilbhai/DevilRoute/blob/main/%40devilroute/opencode-provider/src/index.ts#L48-L56)). It works on the CLI but in the **OpenCode Desktop / Web** builds (Tauri / Electron) the runtime re-runs the model picker and the static block surfaces only a few of those — and they drift behind the live DevilRoute catalog.
 
 This plugin solves that by:
 
@@ -300,7 +300,7 @@ If you want a narrower-scoped Bearer for MCP (different from the chat/inference 
 
 ## Comparison vs `@devilroute/opencode-provider`
 
-[`@devilroute/opencode-provider`](https://github.com/diegosouzapw/DevilRoute/tree/main/%40devilroute/opencode-provider) is the existing config-generator package — it writes a frozen `provider.<id>` block into `opencode.json` at build time. This plugin is the runtime integration.
+[`@devilroute/opencode-provider`](https://github.com/devilbhai/DevilRoute/tree/main/%40devilroute/opencode-provider) is the existing config-generator package — it writes a frozen `provider.<id>` block into `opencode.json` at build time. This plugin is the runtime integration.
 
 |                   | `@devilroute/opencode-plugin` (this) | `@devilroute/opencode-provider`    |
 | ----------------- | ----------------------------------- | --------------------------------- |

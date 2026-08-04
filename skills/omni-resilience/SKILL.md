@@ -34,7 +34,7 @@ See the full OpenAPI specification at `GET /api/openapi/spec` or `docs/openapi.y
 
 # DevilRoute — Monitoring & Health
 
-Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/diegosouzapw/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
+Requires `DEVILROUTE_URL` and `DEVILROUTE_KEY`. See [entry-point SKILL](https://raw.githubusercontent.com/devilbhai/DevilRoute/main/skills/devilroute/SKILL.md) for setup.
 
 ## System health
 

@@ -6,7 +6,7 @@ import { kiroProvider } from "../../open-sse/config/providers/registry/kiro/inde
 const { getNextFamilyFallback } = await import("../../open-sse/services/modelFamilyFallback.ts");
 
 // Regression for the port of decolua/9router#2267 ("claude-sonnet-5 is not supported"),
-// upstream PR diegosouzapw/DevilRoute#5796.
+// upstream PR devilbhai/DevilRoute#5796.
 //
 // The Kiro provider's OAuth model catalog lives in `registry/kiro/index.ts` `models[]`.
 // That list is both the model selector's source and the fallback for the live

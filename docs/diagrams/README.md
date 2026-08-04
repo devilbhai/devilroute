@@ -25,7 +25,7 @@ Mermaid sources (`.mmd`) and exported SVGs for DevilRoute v3.8.0 architecture fl
 
 Not every diagram comes from a `.mmd` source. Hand-authored SVGs live at this
 directory's root and animate with SMIL only (no JS, no external fonts), so they play
-inside GitHub's `<img>` sandbox:
+inside GitHub's `` sandbox:
 
 | File                                                   | Used in          | Notes                                                                                                                                                                                                                     |
 | ------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ with a white background, suitable for both dark and light themes.
 From a doc in `docs/<subfolder>/`, the relative path becomes `../diagrams/...`:
 
 ```markdown
-![Request pipeline](../diagrams/exported/request-pipeline.svg)
+
 
 > Source: [../diagrams/request-pipeline.mmd](../diagrams/request-pipeline.mmd)
 ```
@@ -70,7 +70,7 @@ From a doc in `docs/<subfolder>/`, the relative path becomes `../diagrams/...`:
 From the repo root (e.g. `CLAUDE.md`):
 
 ```markdown
-![Resilience layers](./exported/resilience-3layers.svg)
+
 ```
 
 ## Conventions
