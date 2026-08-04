@@ -1,0 +1,17 @@
+export const DEVILROUTE_RESPONSE_HEADERS = {
+  cache: "X-DevilRoute-Cache",
+  cacheHit: "X-DevilRoute-Cache-Hit",
+  compression: "X-DevilRoute-Compression",
+  costSaved: "X-DevilRoute-Cost-Saved",
+  decision: "X-DevilRoute-Decision",
+  fallbackAttempts: "X-DevilRoute-Fallback-Attempts",
+  latencyMs: "X-DevilRoute-Latency-Ms",
+  model: "X-DevilRoute-Model",
+  progress: "X-DevilRoute-Progress",
+  provider: "X-DevilRoute-Provider",
+  requestId: "X-DevilRoute-Request-Id",
+  responseCost: "X-DevilRoute-Response-Cost",
+  tokensIn: "X-DevilRoute-Tokens-In",
+  tokensOut: "X-DevilRoute-Tokens-Out",
+  version: "X-DevilRoute-Version",
+} as const;
