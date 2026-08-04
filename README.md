@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./docs/screenshots/MainDevilRoute.png" alt="DevilRoute Dashboard" width="820"/>
 
 <br/>
 <br/>
@@ -35,9 +34,7 @@
 
 </h3>
 
-[![Stars](https://img.shields.io/github/stars/diegosouzapw/DevilRoute?style=social)](https://github.com/diegosouzapw/DevilRoute)
-<a href="https://trendshift.io/repositories/23589" target="_blank"><img src="https://trendshift.io/api/badge/repositories/23589" alt="diegosouzapw%2FDevilRoute | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-[![Star History Rank](https://api.star-history.com/badge?repo=diegosouzapw/DevilRoute&theme=dark)](https://www.star-history.com/diegosouzapw/devilroute)
+
 
 ### 💬 Join the community
 
