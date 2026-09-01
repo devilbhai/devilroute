@@ -69,6 +69,7 @@ jobs:
     # no local noauth CLIs => zero machine-specific false positives) and no contention.
     # Nightly cron normally finds the var false (VM off) and falls back to hosted.
     runs-on: ${{ (vars.USE_VPS_RUNNER == 'true' && fromJSON('["self-hosted","omni-release"]')) || 'ubuntu-latest' }}
+    timeout-minutes: 30
     env:
       JWT_SECRET: ci-nightly-secret-with-sufficient-length-for-validation
       API_KEY_SECRET: ci-nightly-api-key-secret-long
@@ -99,7 +100,11 @@ jobs:
               | sort -t/ -k2 -V \
               | tail -1)
           fi
-          if [ -z "$TARGET" ]; then echo "No release/v* branch found"; exit 1; fi
+          if [ -z "$TARGET" ]; then
+            echo "::warning::No release/v* branch found — nothing to validate."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           # Strict format guard — reject anything that isn't release/vX.Y.Z (blocks
           # ref/command injection via the workflow_dispatch input).
           if ! printf '%s' "$TARGET" | grep -qE '^release/v[0-9]+\.[0-9]+\.[0-9]+$'; then
@@ -109,6 +114,7 @@ jobs:
           echo "Active release branch: $TARGET"
 
       - name: Checkout the release branch
+        if: steps.branch.outputs.skip != 'true'
         env:
           TARGET: ${{ steps.branch.outputs.target }}
         run: |
@@ -117,13 +123,16 @@ jobs:
           git log -1 --oneline
 
       - uses: actions/setup-node@v7
+        if: steps.branch.outputs.skip != 'true'
         with:
           node-version: "24"
           cache: npm
 
       - uses: ./.github/actions/npm-ci-retry
+        if: steps.branch.outputs.skip != 'true'
 
       - name: Release-green validation (full)
+        if: steps.branch.outputs.skip != 'true'
         id: validate
         env:
           EVENT_NAME: ${{ github.event_name }}
@@ -218,6 +227,7 @@ jobs:
     # release-green above. Schedule/dispatch always run (they also sweep main).
     if: ${{ github.event_name != 'push' || github.ref_name == 'main' }}
     runs-on: ${{ (vars.USE_VPS_RUNNER == 'true' && fromJSON('["self-hosted","omni-release"]')) || 'ubuntu-latest' }}
+    timeout-minutes: 30
     env:
       JWT_SECRET: ci-nightly-secret-with-sufficient-length-for-validation
       API_KEY_SECRET: ci-nightly-api-key-secret-long
@@ -354,7 +364,11 @@ jobs:
               | sort -t/ -k2 -V \
               | tail -1)
           fi
-          if [ -z "$TARGET" ]; then echo "No release/v* branch found"; exit 1; fi
+          if [ -z "$TARGET" ]; then
+            echo "::warning::No release/v* branch found — nothing to bank."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           # Same strict guard as the validation job — blocks ref/command injection
           # through the workflow_dispatch input.
           if ! printf '%s' "$TARGET" | grep -qE '^release/v[0-9]+\.[0-9]+\.[0-9]+$'; then
@@ -364,6 +378,7 @@ jobs:
           echo "bank_branch=chore/bank-ratchet-${TARGET#release/}" >> "$GITHUB_OUTPUT"
 
       - name: Checkout the release branch
+        if: steps.branch.outputs.skip != 'true'
         env:
           TARGET: ${{ steps.branch.outputs.target }}
         run: |
@@ -372,13 +387,16 @@ jobs:
           git log -1 --oneline
 
       - uses: actions/setup-node@v7
+        if: steps.branch.outputs.skip != 'true'
         with:
           node-version: "24"
           cache: npm
 
       - uses: ./.github/actions/npm-ci-retry
+        if: steps.branch.outputs.skip != 'true'
 
       - name: Ratchet the baselines down
+        if: steps.branch.outputs.skip != 'true'
         run: |
           # Both --update paths are shrink-only by construction (file-size writes only
           # on `improvements`, complexity-ratchets only when `.improved`), and both exit
@@ -390,6 +408,7 @@ jobs:
           exit 0
 
       - name: Verify the write only went downward
+        if: steps.branch.outputs.skip != 'true'
         id: verify
         run: |
           set -euo pipefail
